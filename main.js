@@ -6,7 +6,7 @@
   Facebook連結: https://www.facebook.com/bruce.chen.372
   LINE ID: brucechen0
 最後修改日期: 2022/9/19
-版本: 1.0.0.1
+版本: 1.0.0.2
 發表於: https://brucechen034020.github.io/
 程式碼尺度
   N/A
@@ -32,7 +32,7 @@ var ip; // ip adress of the client (string)
 var city; // city of the client (string)
 
 /* p5 functions */
-function setup(){
+function setup(){window.alert('alert! alert! alert!')
   /* Disable right click */
   //$('body').on('contextmenu', 'canvas', function(e){ return false; });
 
