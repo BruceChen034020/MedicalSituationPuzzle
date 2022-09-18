@@ -1,0 +1,1027 @@
+Fever, constipation, relative bradycardia $ Typhoid {微生物}{Inf}
+Fever (3wk then 10 days free), arthralgia, lymphadenopathy, history of contact with milk $ Brucellosis {微生物}{Inf}
+Fever, tender hepatomegally, GI upset $ Amebic liver abcess {寄蟲}{Inf}
+Fever, arthritis, UTI $ gonococcal or chlamydia infection {微生物}{Inf}
+Fever, cardiac murmur, vegetation on echo $ infective endocarditis {CV}{Inf}
+Fever, high ESR > 100, renal impairment, hypercalcemia in old age, backache $ Multiple myeloma {Hema}{Onco}
+Fever, low platelet, headache $ Dengue fever {微生物}{Inf}
+Periumbilical edema and bruising $ intra-peritoneal hemorrhage (Cullen's sign), r/o ruptured ectopic pregnancy or acute pancreatitis {GI}
+Bluish discoloration of flanks $ retroperitoneal hemorrhage (Grey Turner's sign), r/o pancreatitis {GI}
+Pain reffered to McBurney's point on palpation of lower abdomen $ peritoneal irritation in appendicitis {GI}
+Ecchymosis of perineum, scrotum and labia $ fracture of pelvis (Coopernail's sign) {Ortho}
+Sensorineural deafness, progressive renal failure, ocular anomalies $ Alports syndrome {Gene}
+Recurrent oral ucers, genital ulcers, iridocyclitis $ Behcet's syndrome [mnemonic: can't see, can't pee, can't eat spicy curry] {病理}{AIR}{免疫}
+Muffled heart sound, distended neck veins, hypotension $ Acute cardiac tamponade (Beck's triad) {CV}
+Sixth cranial n. palsy, persistent ear discharge, deep seated retro orbital pain $ complication of otitis media and mastoiditis involving the apex of the petrous temporal bone (Gradenigo's syndrome) {ENT}
+Pain, fever, jaundice $ ascending cholangitis (Charchot's triad) {GI}
+Pain, hematuria, renal mass $ hypernephroma / renal cell carcinoma {Onco}
+Malformed teeth, interstitial keratitis, nerve deafness $ congenital syphilis (Hutchinson's triad) {Inf}
+Growth retardation, mental changes, edema $ severe protein malnutrition (Kwashiorkor) {小兒}
+Gall stones, diverticulosis, hiatus hernia $ Saint's triad {GI}
+Conductive deafness, immobility of homolateral soft palate, trigeminal neuralgia $ advanced nasopharyngeal carcinoma (Trotter's syndrome) {微生物}{Onco}
+Stasis, hypercoagulability, vessel injury $ Virchow's triad (thrombosis) {CV}{內科}{CM}
+_$_
+Gout, intellectual disability, self-mutilating behavior in a boy $ Lesch-Nyhan syndrome (HGPRT deficiency, X-linked recessive) {生化}{Meta}
+Situs inversus, chronic sinusitis, bronchiectasis, infertility $ Kartagener syndrome (dynein arm defect affecting cilia) / Primary ciliary dyskinesia {生化}{CM}
+Blue sclera $ Osteogenesis imperfecta (type I collagen defect) {生化}{小兒}{Gene}{Ortho}
+Elastic skin, hypermobility of joints,  bleeding tendency $ Ehlers-Danlos syndrome (type V collagen defect, type III collagen defect seen in vascular subtype of ED) {生化}{Gene}{AIR}
+Arachnodactyly, lens dislocation (upward and temporal), aortic dissection, hyperflexible joints $ Marfan syndrome (fibrillin defect) {生化}{Gene}
+Cafe-au-lait spots (unilateral), polyostotic fibrous dysplasia, precocious puberty, multiple endocrine abnormalities $ McCune-Albright syndrome (G_s-protein activating mutation) {Gene}
+Calf pseudohypertrophy $ Muscular dystrophy (most commonly Duchenne, due to X-linked recessive frameshift mutation of dystrophin gene) {Gene}{組織}{Neuro}
+Child uses arms to stand up from squat $ Duchenne muscular dystrophy (Gowers sign) {組織}{Neuro}{小兒}{Gene}
+Slow, progressive muscle weakness in boys $ Becker muscular dystrophy (X-linked non-frameshift deletions in dystrophin; less severe than Duchenne) {Gene}{Neuro}
+Infant with cleft lip/palate, microcephaly or holoprosencephaly, polydactyly, cutis aplasia $ Patau syndrome (trisomy 13) {Gene}
+Infant with microcephaly, rocker-bottom feet, clenched hands, and structural heart defect $ Edwards syndrome (trisomy 18) {Gene}{小兒}
+Single palmar crease $ Down syndrome {普生}{Gene}{小兒}
+Dilated cardiomyopathy, edema, alcoholism or malnutrition $ Wet beriberi (thiamine [vitamin B1] deficiency) {生化}{Neuro}{CV}{小兒}
+Dermatitis, dementia, diarrhea $ Pellagra (niacin [vitamin B3] deficiency) {生化}{Integ}
+Swollen gums, mucosal bleeding, poor wound healing, petechiae $ Scurvy (vitamin C deficiency: can’t hydroxylate proline/lysine for collagen synthesis) {生化}{Meta}
+Chronic exercise intolerance with myalgia, fatigue, painful cramps, myoglobinuria $ McArdle disease (skeletal muscle glycogen phosphorylase deficiency) / Glycogen storage disease type V {生化}{Meta}
+Infant with hypoglycemia, hepatomegaly $ Cori disease (debranching enzyme deficiency) or Von Gierke disease (glucose-6-phosphatase deficiency, more severe) {生化}{Meta}{Gene}{Hema}{免疫}
+Myopathy (infantile hypertrophic cardiomyopathy), exercise intolerance $ Pompe disease (lysosomal α-1,4-glucosidase deficiency) / Glycogen storage disease type II {生化}{Meta}
+“Cherry-red spots” on macula $ Tay-Sachs (ganglioside accumulation) or Niemann-Pick (sphingomyelin accumulation), central retinal artery occlusion {生化}{Gene}
+Hepatosplenomegaly, pancytopenia, osteoporosis, avascular necrosis of femoral head, bone crises $ Gaucher disease (glucocerebrosidase [β-glucosidase] deficiency) {生化}{Meta}{Neuro}
+Achilles tendon xanthoma $ Familial hypercholesterolemia ( LDL receptor signaling) {生化}{Meta}{藥理}
+Anaphylaxis following blood transfusion $ IgA deficiency {免疫}
+Male child, recurrent infections, no mature B cells $ Bruton disease (X-linked agammaglobulinemia) {免疫}
+Recurrent cold (noninflamed) abscesses, eczema, high serum IgE,  eosinophils $ Hyper-IgE syndrome (Job syndrome: neutrophil chemotaxis abnormality) {免疫}
+“Strawberry tongue” $ Scarlet fever ; Kawasaki disease {微生物}{Inf} ; {病理}{CV}{小兒}{AIR}{免疫}
+Abdominal pain, diarrhea, leukocytosis, recent antibiotic use $ Clostridium difficile infection {微生物}{Inf}
+Back pain, fever, night sweats $ Pott disease (vertebral TB) {微生物}{AIR}
+Adrenal hemorrhage, hypotension, DIC $ Waterhouse-Friderichsen syndrome (meningococcemia) {微生物}{Meta}
+Red “currant jelly” sputum in alcoholic or diabetic patients $ Klebsiella pneumoniae pneumonia {微生物}{CM}{Inf}
+Large rash with bull’s-eye appearance $ Erythema migrans from Ixodes tick bite (Lyme disease: Borrelia) {微生物}{寄蟲}{Inf}
+Ulcerated genital lesion ; Nonpainful, indurated $ chancre (1° syphilis, Treponema pallidum) {微生物}{Integ}{Inf}
+Ulcerated genital lesion ; Painful, with exudate $ chancroid (Haemophilus ducreyi) {微生物}{Inf}{Integ}
+Pupil accommodates but doesn’t react $ Neurosyphilis (Argyll Robertson pupil) {微生物}{Neuro}{Inf}
+Smooth, moist, painless, wart-like white lesions on genitals $ Condylomata lata (2° syphilis) {微生物}{Integ}
+Fever, chills, headache, myalgia following antibiotic treatment for syphilis $ Jarisch-Herxheimer reaction (rapid lysis of spirochetes results in endotoxin-like release) {微生物}{Inf}
+Dog or cat bite resulting in infection $ Pasteurella multocida (cellulitis at inoculation site) {微生物}{Ortho}{Inf}{Integ}
+Rash on palms and soles $ Coxsackie A, 2° syphilis, Rocky Mountain spotted fever {微生物}{Inf}
+Black eschar on face of patient with diabetic ketoacidosis $ Mucor or Rhizopus fungal infection {微生物}{口外}{Inf}{急診}
+Chorioretinitis, hydrocephalus, intracranial calcifications $ Congenital toxoplasmosis {寄蟲}{Inf}
+Child with fever later develops red rash on face that spreads to body $ Erythema infectiosum/fifth disease (“slapped cheeks” appearance, caused by parvovirus B19) {微生物}{Inf}
+Fever, cough, conjunctivitis, coryza, diffuse rash $ Measles {微生物}{Inf}
+Small, irregular red spots on buccal/lingual mucosa with blue-white centers $ Koplik spots (measles [rubeola] virus) {微生物}{Inf}
+Bounding pulses, wide pulse pressure, diastolic heart murmur, head bobbing $ Aortic regurgitation {CV}
+Systolic ejection murmur (crescendo-decrescendo) $ Aortic stenosis {CV}
+Continuous “machine-like” heart murmur $ PDA (close with indomethacin; keep open with PGE analogs) {CV}{藥理}
+Chest pain on exertion $ Angina (stable: with moderate exertion; unstable: with minimal exertion or at rest) {CV}
+Chest pain with ST depressions on ECG $ Angina (⊝ troponins) or NSTEMI (⊕ troponins)
+Chest pain, pericardial effusion/friction rub, persistent fever following MI $ Dressler syndrome (autoimmune-mediated post-MI fibrinous pericarditis, 2 weeks to several months after acute episode) {CV}
+Painful, raised red lesions on pads of fingers/toes $ Osler nodes (infective endocarditis, immune complex deposition) {CV}
+Painless erythematous lesions on palms and soles $ Janeway lesions (infective endocarditis, septic emboli/microabscesses) {CV}{Integ}
+Splinter hemorrhages in fingernails $ Bacterial endocarditis {CV}{Inf}
+Retinal hemorrhages with pale centers $ Roth spots (bacterial endocarditis) {CV}{Inf}{眼科}
+Distant heart sounds, distended neck veins, hypotension $ Beck triad of cardiac tamponade {CV}
+Cervical lymphadenopathy, desquamating rash, coronary aneurysms, red conjunctivae and tongue, hand-foot changes $ Kawasaki disease (mucocutaneous lymph node syndrome, treat with IVIG and aspirin) {病理}{CV}{小兒}{AIR}{免疫}
+Palpable purpura on buttocks/legs, joint pain, abdominal pain (child), hematuria $ Immunoglobulin A vasculitis (Henoch-Schönlein purpura, affects skin and kidneys) {病理}{CV}{Nephro}
+Telangiectasias, recurrent epistaxis, skin discoloration, arteriovenous malformations, GI bleeding, hematuria $ Hereditary hemorrhagic telangiectasia (Osler-WeberRendu syndrome) {CV}{Gene}{GI}
+Skin hyperpigmentation, hypotension, fatigue $ 1° adrenocortical insufficiency   ACTH,  α-MSH (eg, Addison disease) {Meta}
+Cutaneous flushing, diarrhea, bronchospasm $ Carcinoid syndrome (right-sided cardiac valvular lesions,  5-HIAA) {Meta}{Onco}
+Cold intolerance, weight gain, brittle hair $ Hypothyroidism {普生}{Meta}
+Cutaneous/dermal edema due to deposition of mucopolysaccharides in connective tissue $ Myxedema (caused by hypothyroidism, Graves disease [pretibial]) {Meta}
+Facial muscle spasm upon tapping $ Chvostek sign (hypocalcemia) {Meta}
+No lactation postpartum, absent menstruation, cold intolerance $ Sheehan syndrome (postpartum hemorrhage leading to pituitary infarction) {Meta}{O&G}
+Deep, labored breathing/hyperventilation $ Diabetic ketoacidosis (Kussmaul respirations) {Meta}
+Pancreatic, pituitary, parathyroid tumors $ MEN 1 (autosomal dominant) {Meta}{Onco}
+Thyroid tumors, pheochromocytoma, ganglioneuromatosis, Marfanoid habitus $ MEN 2B (autosomal dominant RET mutation) {Meta}
+Thyroid and parathyroid tumors, pheochromocytoma $ MEN 2A (autosomal dominant RET mutation) {Meta}{Onco}
+Jaundice, palpable distended non-tender gallbladder $ Courvoisier sign (distal malignant obstruction of biliary tree) {GI}
+Vomiting blood following gastroesophageal lacerations $ Mallory-Weiss syndrome (alcoholic and bulimic patients) {GI}{Psy}
+Dysphagia (esophageal webs), glossitis, iron deficiency anemia $ Plummer-Vinson syndrome (may progress to esophageal squamous cell carcinoma) {GI}
+Enlarged, hard left supraclavicular node $ Virchow node (abdominal metastasis) {GI}
+Arthralgias, adenopathy, cardiac and neurological symptoms, diarrhea $ Whipple disease (Tropheryma whipplei) {GI}
+Severe RLQ pain with palpation of LLQ $ Rovsing sign (acute appendicitis) {GI}
+Severe RLQ pain with deep tenderness $ McBurney sign (acute appendicitis) {GI}
+Hamartomatous GI polyps, hyperpigmented macules on mouth, feet, hands, genitalia $ Peutz-Jeghers syndrome (inherited, benign polyposis can cause bowel obstruction;  cancer risk, mainly GI) {GI}{病理}{Gene}
+Multiple colon polyps, osteomas/soft tissue tumors, impacted/supernumerary teeth $ Gardner syndrome (subtype of FAP) {病理}{GI}{Onco}{Gene}{ENT}
+Abdominal pain, ascites, hepatomegaly $ Budd-Chiari syndrome (posthepatic venous thrombosis) {GI}
+Severe jaundice in neonate $ Crigler-Najjar syndrome (congenital unconjugated hyperbilirubinemia) {生化}{GI}{小兒}
+Golden brown rings around peripheral cornea $ Wilson disease (Kayser-Fleischer rings due to copper accumulation) {GI}
+Fat, female, forty, fertile $ Cholelithiasis (gallstones) {GI}
+Painless jaundice $ Cancer of the pancreatic head obstructing bile duct {GI}
+Bluish line on gingiva $ Burton line (lead poisoning) {藥理}{Hema}
+Short stature, café-au-lait spots, thumb/radial defects,  incidence of tumors/leukemia, aplastic anemia $ Fanconi anemia (genetic loss of DNA crosslink repair; often progresses to AML) {Hema}
+Red/pink urine, fragile RBCs $ Paroxysmal nocturnal hemoglobinuria {免疫}{Hema}
+Painful blue fingers/toes, hemolytic anemia $ Cold agglutinin disease (autoimmune hemolytic anemia caused by Mycoplasma pneumoniae, infectious mononucleosis, CLL) {Hema}
+Petechiae, mucosal bleeding, prolonged bleeding time $ Platelet disorders (eg, Glanzmann thrombasthenia, Bernard Soulier, HUS, TTP, ITP) {Hema}
+Fever, night sweats, weight loss $ B symptoms of malignancy {Hema}{Onco}
+Skin patches/plaques, Pautrier microabscesses, atypical T cells $ Mycosis fungoides (cutaneous T-cell lymphoma) or Sézary syndrome (mycosis fungoides + malignant T cells in blood) {Integ}{Hema}{Onco}
+WBCs that look “smudged” $ CLL {Hema}{Onco}
+Neonate with arm paralysis following difficult birth, arm in “waiter’s tip” position $ Erb-Duchenne palsy (superior trunk [C5–C6] brachial plexus injury) {Musc}{小兒}
+Anterior drawer sign ⊕ $ Anterior cruciate ligament injury {Ortho}
+Bone pain, bone enlargement, arthritis $ Osteitis deformans (Paget disease of bone,  osteoblastic and osteoclastic activity) {AIR}
+Swollen, hard, painful finger joints in an elderly individual, pain worse with activity $ Osteoarthritis (osteophytes on PIP [Bouchard nodes], DIP [Heberden nodes]) {AIR}{Ortho}
+Sudden swollen/painful big toe joint, tophi $ Gout/podagra (hyperuricemia) {生化}{AIR}
+Dry eyes, dry mouth, arthritis $ Sjögren syndrome (autoimmune destruction of exocrine glands) {免疫}{AIR}
+Urethritis, conjunctivitis, arthritis in a male $ Reactive arthritis associated with HLA-B27 {AIR}
+“Butterfly” facial rash and Raynaud phenomenon in a young female $ Systemic lupus erythematosus {普生}{免疫}{AIR}
+Painful fingers/toes changing color from white to blue to red with cold or stress $ Raynaud phenomenon (vasospasm in extremities) {AIR}
+Anticentromere antibodies $ Scleroderma (CREST) {AIR}
+Dark purple skin/mouth nodules in a patient with AIDS $ Kaposi sarcoma, associated with HHV-8 {微生物}{Integ}{Onco}
+Anti-desmoglein (anti-desmosome) antibodies $ Pemphigus vulgaris (blistering) {Integ}
+Pruritic, purple, polygonal planar papules and plaques (6 P’s) $ Lichen planus {Integ}
+↑ AFP in amniotic fluid/maternal serum $ Dating error, anencephaly, spina bifida (open neural tube defects) {胚胎}{BB}{Gene}{小兒}
+Ataxia, nystagmus, vertigo, dysarthria $ Cerebellar lesion {BB}{Neuro}
+Toe extension/fanning upon plantar scrape $ Babinski sign (UMN lesion) {BB}
+Hyperphagia, hypersexuality, hyperorality $ Klüver-Bucy syndrome (bilateral amygdala lesion) {BB}{Psy}{Neuro}
+Resting tremor, athetosis, chorea $ Basal ganglia lesion {BB}{Neuro}
+Lucid interval after traumatic brain injury $ Epidural hematoma (middle meningeal artery rupture) {BB}{Neuro}
+“Worst headache of my life” $ Subarachnoid hemorrhage {BB}{Neuro}
+Resting tremor, rigidity, akinesia, postural instability, shuffling gait $ Parkinson disease (loss of dopaminergic neurons in substantia nigra pars compacta) {BB}{Neuro}
+Chorea, dementia, caudate degeneration $ Huntington disease (autosomal dominant CAG repeat expansion) {Gene}{BB}{Neuro}
+Nystagmus, intention tremor, scanning speech, bilateral internuclear ophthalmoplegia $ Multiple sclerosis {免疫}{BB}{Neuro}
+Rapidly progressive limb weakness that ascends following GI/upper respiratory infection $ Guillain-Barré syndrome (acute inflammatory demyelinating polyradiculopathy subtype) {Neuro}
+Café-au-lait spots, Lisch nodules (iris hamartoma), cutaneous neurofibromas, pheochromocytomas, optic gliomas $ Neurofibromatosis type I {Neuro}{Integ}
+Vascular birthmark (port-wine stain) of the face $ Nevus flammeus (benign, but associated with SturgeWeber syndrome) {Neuro}{Gene}
+Renal cell carcinoma (bilateral), hemangioblastomas, angiomatosis, pheochromocytoma $ von Hippel-Lindau disease (dominant tumor suppressor gene mutation) {Neuro}{Gene}
+Bilateral vestibular schwannomas $ Neurofibromatosis type 2 {Neuro}{Gene}{ENT}
+Hyperreflexia, hypertonia, Babinski sign present $ UMN damage {BB}{Neuro}
+Hyporeflexia, hypotonia, atrophy, fasciculations $ LMN damage {BB}{Neuro}
+Spastic weakness, sensory loss, bowel/bladder dysfunction $ Spinal cord lesion {BB}{Neuro}
+Unilateral facial drooping involving forehead $ LMN facial nerve (CN VII) palsy; UMN lesions spare the forehead {BB}{Neuro}
+Episodic vertigo, tinnitus, hearing loss $ Ménière disease {BB}{ENT}
+Ptosis, miosis, anhidrosis $ Horner syndrome (sympathetic chain lesion) {BB}{眼科}{Neuro}
+Conjugate horizontal gaze palsy, horizontal diplopia $ Internuclear ophthalmoplegia (damage to MLF; may be unilateral or bilateral) {BB}{眼科}
+Polyuria, renal tubular acidosis type II, growth failure, electrolyte imbalances, hypophosphatemic rickets $ Fanconi syndrome (multiple combined dysfunction of the proximal convoluted tubule) {Nephro}{Meta}
+Athlete with polycythemia $ 2° to erythropoietin injection {普生}{FERGU}{藥理}
+Periorbital and/or peripheral edema, proteinuria (> 3.5g/day), hypoalbuminemia, hypercholesterolemia $ Nephrotic syndrome {Nephro}
+Hereditary nephritis, sensorineural hearing loss, retinopathy, lens dislocation $ Alport syndrome (mutation in collagen IV) {FERGU}{Gene}
+Streak ovaries, congenital heart disease, horseshoe kidney, cystic hygroma at birth, short stature, webbed neck, lymphedema $ Turner syndrome (45,XO) {普生}{Repro}{小兒}{Gene}
+Red, itchy, swollen rash of nipple/areola $ Paget disease of the breast (sign of underlying neoplasm) {病理}{Repro}{Onco}
+Fibrous plaques in tunica albuginea of penis with abnormal curvature $ Peyronie disease (connective tissue disorder) {Uro}
+Hypoxemia, polycythemia, hypercapnia $ Chronic bronchitis (hyperplasia of mucous cells, “blue bloater”) {Inf}{CM}
+Pink complexion, dyspnea, hyperventilation $ Emphysema (“pink puffer,” centriacinar [smoking] or panacinar [α1-antitrypsin deficiency]) {CM}
+Bilateral hilar adenopathy, uveitis $ Sarcoidosis (noncaseating granulomas) {病理}{Pulm}{AIR}{免疫}
+_$_
+↓ AFP in amniotic fluid/maternal serum $ Down syndrome, Edwards syndrome {普生}{Gene}{小兒}
+Large granules in phagocytes, immunodeficiency $ Chédiak-Higashi disease (congenital failure of phagolysosome formation) {免疫}{Meta}
+Recurrent infections, eczema, thrombocytopenia $ Wiskott-Aldrich syndrome {免疫}
+Optochin sensitivity $ Sensitive: S pneumoniae; resistant: viridans streptococci (S mutans, S sanguis) {微生物}
+Novobiocin response $ Sensitive: S epidermidis; resistant: S saprophyticus {微生物}
+Bacitracin response $ Sensitive: S pyogenes (group A); resistant: S agalactiae(group B) {微生物}
+Streptococcus bovis bacteremia $ Colon cancer {微生物}{GI}{Onco}
+Branching gram ⊕ rods with sulfur granules $ Actinomyces israelii {微生物}
+Hilar lymphadenopathy, peripheral granulomatous lesion in middle or lower lung lobes (can calcify) $ Ghon complex (1° TB: Mycobacterium bacilli) {病理}{微生物}{Inf}{CM}
+“Thumb sign” on lateral neck x-ray $ Epiglottitis (Haemophilus influenzae) {微生物}{病理}{CM}
+Bacteria-covered vaginal epithelial cells $ “Clue cells” (Gardnerella vaginalis) {微生物}{O&G}{Inf}
+Cardiomegaly with apical atrophy $ Chagas disease (Trypanosoma cruzi) {寄蟲}{Inf}
+Atypical lymphocytes $ EBV {微生物}{Inf}
+Enlarged cells with intranuclear inclusion bodies $ “Owl eye” appearance of CMV {微生物}{Inf}{CM}
+Heterophile antibodies $ Infectious mononucleosis (EBV) {微生物}{Inf}
+Intranuclear eosinophilic droplet-like bodies $ Cowdry type A bodies (HSV or VZV) {微生物}
+Eosinophilic globule in liver $ Councilman body (viral hepatitis, yellow fever), represents hepatocyte undergoing apoptosis {微生物}{Inf}{病理}
+“Steeple” sign on frontal CXR $ Croup (parainfluenza virus) {病理}{微生物}{小兒}
+Eosinophilic inclusion bodies in cytoplasm of hippocampal and cerebellar neurons $ Negri bodies of rabies {微生物}{Inf}
+Ring-enhancing brain lesion on CT/MRI in AIDS $ Toxoplasma gondii, CNS lymphoma {寄蟲}{微生物}
+Psammoma bodies $ Meningiomas, papillary thyroid carcinoma, mesothelioma, papillary serous carcinoma of the endometrium and ovary {病理}{Neuro}
+“Delta wave” on ECG, short PR interval, supraventricular tachycardia $ Wolff-Parkinson-White syndrome (Bundle of Kent bypasses AV node) {CV}
+“Boot-shaped” heart on x-ray $ Tetralogy of Fallot (due to RVH) {CV}{小兒}
+Rib notching (inferior surface, on x-ray) $ Coarctation of the aorta {CV}
+Heart nodules (granulomatous) $ Aschoff bodies (rheumatic fever) {病理}{CV}
+Electrical alternans (alternating amplitude on ECG) $ Cardiac tamponade {CV}
+Antineutrophil cytoplasmic antibodies (ANCAs) $  Microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis (MPO-ANCA/p-ANCA); granulomatosis with polyangiitis (Wegener; PR3-ANCA/c-ANCA); primary sclerosing cholangitis (MPOANCA/p-ANCA) {病理}{CV}{免疫}{AIR}
+Hypertension, hypokalemia, metabolic alkalosis $ 1° hyperaldosteronism (Conn syndrome) {Meta}
+Enlarged thyroid cells with ground-glass nuclei with central clearing $ “Orphan Annie” eyes nuclei (papillary carcinoma of the thyroid) {病理}{Meta}{ENT}
+Mucin-filled cell with peripheral nucleus $ “Signet ring” (gastric carcinoma) {病理}{GI}{Onco}
+Anti-transglutaminase/anti-gliadin/anti-endomysial antibodies $ Celiac disease (diarrhea, weight loss) {免疫}{GI}{內科}
+Narrowing of bowel lumen on barium x-ray $ “String sign” (Crohn disease) {GI}
+“Lead pipe” appearance of colon on abdominal imaging $ Ulcerative colitis (loss of haustra) {GI}
+Thousands of polyps on colonoscopy $ Familial adenomatous polyposis (autosomal dominant, mutation of APC gene) {病理}{GI}{Onco}
+“Apple core” lesion on barium enema x-ray $ Colorectal cancer (usually left-sided) {GI}{Onco}
+Eosinophilic cytoplasmic inclusion in liver cell $ Mallory body (alcoholic liver disease) {病理}{GI}
+Triglyceride accumulation in liver cell vacuoles $ Fatty liver disease (alcoholic or metabolic syndrome) {營養}{GI}
+“Nutmeg” appearance of liver $ Chronic passive congestion of liver due to right heart failure or Budd-Chiari syndrome {GI}
+Antimitochondrial antibodies (AMAs) $ 1° biliary cholangitis (female, cholestasis, portal hypertension) {GI}
+Low serum ceruloplasmin $ Wilson disease (hepatolenticular degeneration; KayserFleischer rings due to copper accumulation) {GI}
+Migratory thrombophlebitis (leading to migrating DVTs and vasculitis) $ Trousseau syndrome (adenocarcinoma of pancreas or lung) {GI}{Onco}{病理}
+Basophilic nuclear remnants in RBCs $ Howell-Jolly bodies (due to splenectomy or nonfunctional spleen) {Hema}
+Basophilic stippling of RBCs $ Lead poisoning or sideroblastic anemia {藥理}{Hema}
+Hypochromic, microcytic anemia $ Iron deficiency anemia, lead poisoning, thalassemia (fetal hemoglobin sometimes present) {藥理}{Hema}
+“Hair on end” (“Crew-cut”) appearance on x-ray $ β-thalassemia, sickle cell disease (marrow expansion) {生化}{組織}{Gene}{Hema}
+Hypersegmented neutrophils $ Megaloblastic anemia (B12 deficiency: neurologic symptoms; folate deficiency: no neurologic symptoms) {藥理}{Hema}
+Antiplatelet antibodies $ Idiopathic thrombocytopenic purpura {Hema}{GI}
+High level of d-dimers $ DVT, PE, DIC {家醫}{內科}{Hema}{CV}
+Giant B cells with bilobed nuclei with prominent inclusions (“owl’s eye”) $ Reed-Sternberg cells (Hodgkin lymphoma) {Hema}{Onco}
+Sheets of medium-sized lymphoid cells with scattered pale, tingible body–laden macrophages (“starry sky” histology) $ Burkitt lymphoma (t[8:14] c-myc activation, associated with EBV; “starry sky” made up of malignant cells) {Hema}{Onco}
+Lytic (“punched-out”) bone lesions on x-ray $ Multiple myeloma {影診}{Ortho}{Hema}{Onco}
+Monoclonal antibody spike $ ` Multiple myeloma (usually IgG or IgA)` Monoclonal gammopathy of undetermined significance (MGUS consequence of aging)` Waldenström (M protein = IgM) macroglobulinemia` Primary amyloidosis`{影診}{Ortho}{Hema}{Onco}
+Stacks of RBCs $ Rouleaux formation (high ESR, multiple myeloma) {Inf}{影診}{Ortho}{Hema}{Onco}
+Azurophilic peroxidase ⊕ granular inclusions in granulocytes and myeloblasts $ Auer rods (AML, especially the promyelocytic [M3] type) {Hema}{Onco}
+WBCs that look “smudged” $ CLL (almost always B cell) {Hema}{Onco}
+“Tennis racket”-shaped cytoplasmic organelles (EM) in Langerhans cells $ Birbeck granules (Langerhans cell histiocytosis) {Hema}
+“Brown” tumor of bone $ Hyperparathyroidism or osteitis fibrosa cystica (deposited hemosiderin from hemorrhage gives brown color) {Ortho}{Meta}
+“Soap bubble” in femur or tibia on x-ray $ Giant cell tumor of bone (generally benign) {Ortho}{Onco}
+Raised periosteum (creating a “Codman triangle”) $ Aggressive bone lesion (eg, osteosarcoma, Ewing sarcoma, osteomyelitis) {Ortho}{Onco}
+“Onion skin” periosteal reaction $ Ewing sarcoma (malignant small blue cell tumor) {Ortho}{Onco}
+Anti-IgG antibodies $ Rheumatoid arthritis (systemic inflammation, joint pannus, boutonniere and swan neck deformities) {普生}{免疫}{AIR}
+Rhomboid crystals, ⊕ birefringent $ Pseudogout (calcium pyrophosphate dihydrate crystals) {AIR}
+Needle-shaped, ⊝ birefringent crystals $ Gout (monosodium urate crystals) {生化}{AIR}
+↑ uric acid levels $ Gout, Lesch-Nyhan syndrome, tumor lysis syndrome, loop and thiazide diuretics {生化}{AIR}{藥理}
+“Bamboo spine” on x-ray $ Ankylosing spondylitis (chronic inflammatory arthritis: HLA-B27) {免疫}{AIR}
+Antinuclear antibodies (ANAs: anti-Smith and antidsDNA) $ SLE (type III hypersensitivity) {普生}{免疫}{AIR}
+Anti-histone antibodies $ Drug-induced SLE (eg, hydralazine, isoniazid, phenytoin, procainamide) {藥理}{AIR}
+Anti-topoisomerase antibodies $ Diffuse scleroderma {AIR}
+Keratin pearls on a skin biopsy $ Squamous cell carcinoma {Integ}{整外}{ENT}{病理}
+Bloody or yellow tap on lumbar puncture $ Xanthochromia (due to subarachnoid hemorrhage) {Neuro}
+Eosinophilic cytoplasmic inclusion in neuron $ Lewy body (Parkinson disease and Lewy body dementia) {BB}{Neuro}
+Extracellular amyloid deposition in gray matter of brain $ Senile plaques (Alzheimer disease) {Neuro}
+Depigmentation of neurons in substantia nigra $ Parkinson disease (basal ganglia disorder: rigidity, resting tremor, bradykinesia) {BB}{Neuro}
+Protein aggregates in neurons from hyperphosphorylation of tau protein $ Neurofibrillary tangles (Alzheimer disease) and Pick bodies (Pick disease) {BB}{Neuro}
+Silver-staining spherical aggregation of tau proteins in neurons $ Pick bodies (Pick disease: progressive dementia, changes in personality) {病理}{Neuro}
+Pseudopalisading tumor cells on brain biopsy $ Glioblastoma multiforme {病理}{Neuro}
+Circular grouping of dark tumor cells surrounding pale neurofibrils $ Homer-Wright rosettes (neuroblastoma, medulloblastoma) {病理}{Neuro}
+“Waxy” casts with very low urine flow $ Chronic end-stage renal disease {FERGU}{Nephro}
+Nodular hyaline deposits in glomeruli $ Kimmelstiel-Wilson nodules (diabetic nephropathy) {Nephro}{Meta}
+Podocyte fusion or “effacement” on electron microscopy $ Minimal change disease (child with nephrotic syndrome) {Nephro}
+“Spikes” on basement membrane, “dome-like” subepithelial deposits $ Membranous nephropathy (nephrotic syndrome) {Nephro}
+RBC casts in urine $ Glomerulonephritis {Nephro}
+“Tram-track” appearance of capillary loops of glomerular basement membranes on light microscopy $ Membranoproliferative glomerulonephritis {Nephro}
+Anti–glomerular basement membrane antibodies $ Goodpasture syndrome (glomerulonephritis and hemoptysis) {免疫}{Nephro}{CM}
+Cellular crescents in Bowman capsule $ Rapidly progressive (crescentic) glomerulonephritis {Nephro}
+Wire loop” glomerular capillary appearance on light microscopy $ Diffuse proliferative glomerulonephritis (usually seen with lupus) {Nephro}
+Linear appearance of IgG deposition on glomerular and alveolar basement membranes $ Goodpasture syndrome {免疫}{Nephro}{CM}
+“Lumpy bumpy” appearance of glomeruli on immunofluorescence $ Poststreptococcal glomerulonephritis (due to deposition of IgG, IgM, and C3) {Nephro}
+Necrotizing vasculitis (lungs) and necrotizing glomerulonephritis $ Granulomatosis with polyangiitis (Wegener; PR3-ANCA/c-ANCA) and Goodpasture syndrome (anti–basement membrane antibodies) {病理}{CV}{Nephro}{免疫}{AIR}{CM}
+Thyroid-like appearance of kidney $ Chronic pyelonephritis (usually due to recurrent infections) {微生物}{Inf}{Uro}{Nephro}
+WBC casts in urine $ Acute pyelonephritis {微生物}{Inf}{Uro}{Nephro}
+Renal epithelial casts in urine $ Intrinsic renal failure (eg, ischemia or toxic injury) {FERGU}{Nephro}
+hCG elevated $ Choriocarcinoma, hydatidiform mole (occurs with and without embryo, and multiple pregnancy) {病理}{Repro}{Onco}
+Dysplastic squamous cervical cells with “raisinoid” nuclei and hyperchromasia $ Koilocytes (HPV: predisposes to cervical cancer) {病理}{Inf}{O&G}{Onco}
+Disarrayed granulosa cells arranged around collections of eosinophilic fluid $ Call-Exner bodies (granulosa cell tumor of the ovary) {病理}{O&G}{Onco}{Meta}
+“Chocolate cyst” of ovary $ Endometriosis (frequently involves both ovaries) {病理}{O&G}
+Mammary gland (“blue domed”) cyst $ Fibrocystic change of the breast {病理}{O&G}
+Glomerulus-like structure surrounding vessel in germ cells $ Schiller-Duval bodies (yolk sac tumor) {病理}{Repro}{Onco}
+Rectangular, crystal-like, cytoplasmic inclusions in Leydig cells $ Reinke crystals (Leydig cell tumor) {Repro}{Onco}{Meta}
+Thrombi made of white/red layers $ Lines of Zahn (arterial thrombus, layers of platelets/RBCs) {病理}{CV}{CM}
+Hexagonal, double-pointed, needle-like crystals in bronchial secretions $ Bronchial asthma (Charcot-Leyden crystals: eosinophilic granules) {普生}{免疫}{Pulm}{CM}
+Desquamated epithelium casts in sputum $ Curschmann spirals (bronchial asthma; can result in whorled mucous plugs) {病理}{CM}
+“Honeycomb lung” on x-ray or CT $ Idiopathic pulmonary fibrosis {CM}
+Colonies of mucoid Pseudomonas in lungs $ Cystic fibrosis (autosomal recessive mutation in CFTR gene  fat-soluble vitamin deficiency and mucous plugs) {普生}{生化}{免疫}{Gene}{CM}
+Iron-containing nodules in alveolar septum $ Ferruginous bodies (asbestosis:  chance of lung cancer) {公衛}{CM}
+Bronchogenic apical lung tumor on imaging $ Pancoast tumor (can compress cervical sympathetic chain and cause Horner syndrome) {Pulm}{Onco}
+_$_
+dyspnea, fatigue, leg edema $ CVD {CV}
+V5、V6 的 voltage 很大 $ 心肌肥大 {CV}
+Multidetector computed tomography（MDCT） $ 冠狀動脈疾病 {CV}
+90 歲老翁容易累和喘, 活動時會胸悶和呼吸困難, 雙腳無水腫、四肢溫暖、中央靜脈壓只有 7cmH2O, Hepatojugular reflux(+), 拿尺量心尖搏動點的直徑為 4cm, 用手掌摸心尖，感受到持續LV heave, 扣診敲出心臟左緣（向外偏移）, 聽診主動脈瓣區，聽到一個明顯的收縮期射出性雜音，雜音可傳到右頸部、三尖瓣區和心尖, 再聽胸骨旁左緣第三肋間，發現一個高頻的舒張期雜音，也聽到 to-and-fro 雜音 $ 嚴重的主動脈瓣狹窄+中等程度的主動脈瓣閉鎖不全 {CV}
+眼白多，上下的眼白都看的到 $ Grave ophthalmology {CV}
+Chest pain, Dyspnea, Palpitation, Fainting, Edema $ Cardiovascular system {CV}
+異常血壓, 異常脈搏, jugular venous pulsation $ 心血管系統 {CV}
+Water-hammer Pulse $ 主動脈瓣逆流(AR) {CV}
+聽診收縮期心雜音, 站起來時逆流時間提早, 蹲下來，逆流時間後延 $ mitral valve prolapse, MVP {CV}
+頸動脈狹窄, 冠狀動脈疾病(CAD), 周邊動脈阻塞(PAOD) $ Atherosclerosis {CV}
+胸悶、胸痛, 猝死 $ Ischemic Heart Diseases (IHD) {CV}
+angina pectoris Grade 4, Cardiomegaly, ST elevation, Q 波>40ms $ Ischemic Heart Diseases (IHD) {CV}
+Ambulatory BP Night-time mean SBP≥120, DBP≥70 $ 高血壓 (確診) {CV}
+History of CAD, BNP ≥35 pg/mL, Regional wall abnormality $ HF (確診) (冠狀動脈 ischemia) {CV}
+病人捂著胸口表示胸悶不適 $ 急性冠心症 {CV}
+病人捂著胸口表示胸悶不適, ST elevation $ STEMI (確診) {CV}
+喘, 運動後頭暈, 心軸右偏(RAD)、右心房偏大(RAE)、右心室肥大(RVH)、右心阻力上升(RV strain), 心臟變大(上端角度變大)且心尖微微上翹, 肺動脈變粗 $ Pulmonary artery hypertension (PAH) (確診) {CV}
+右心衰竭徵象, 下肢水腫, 腹水, Kussmaul’s sign $ Constrictive Pericarditis {CV}
+septal bouncing 、four chamber equalization 和Square root sign $ Constrictive pericarditis (Constrictive pericarditis vs. restrictive cardiomyopathy) {CV}
+心絞痛、暈厥、心衰竭 $ Aortic Valve Stenosis {CV}
+主動脈瓣膜開口＜1cm2, 左心室與主動脈之間的壓力差超過 40mmHg $ Aortic Valve Stenosis (確診) {CV}
+Polyarthritis, Carditis, Nodules $ Rheumatic fever {CV}
+兩套血液培養皆為陽性（抽血時間不同，做 2 次或以上，間隔12 小時以上）, ECHO 看到內膜問題 $ Infective Endocarditis, IE (確診) (Modified Duke Criteria) {CV}
+Fever, Roth’s spots, Osler’s nodes $ Infective Endocarditis, IE {CV}
+Dyspnea on exertion, Chest pain, Palpitation, 無 cough, 無 pale skin, 脈搏呈現 Pulsus bisferiens (Bifid systolic pulse), Low pitch murmur $ Hypertrophic cardiomyopathy (HCM) {CV}
+腔室擴大，心肌變薄, 心輸出量(CO)下降 $ Dilated cardiomyopathy (DCM) {CV}
+喘, Jugular vein distention, 水腫, 無 Chest pain, 很多 Q wave, 很厚的心肌，但沒有很大的 R wave $ Restrictive/ Infiltrative Cardiomyopathy (RCM) {CV}
+upper respiratory febrile illness, 急性鬱血性心臟衰竭, ACS, acute coronary syndrome $ Myocarditis {CV}
+diffuse T wave inversion, CRP、CK/CK-MB 和 Troponin 均升高, 切片可見許多淋巴球浸潤其中 $ Myocarditis (確診) {CV}
+皮膚濕、感覺冷, 意識狀態改變, SBP<90mmHg $ Shock {CV}
+撕裂性疼痛，轉移至肩膀、手臂、脖子、背, 急性心衰竭, 心包膜填塞 $ Aortic Dissection {CV}
+Significant SOB, rapid breathing, Tachycardia, Orthopnea $ Acute Cardiac Tamponade {CV}
+D-dimer 濃度高, left pulmonary artery 阻塞，right pulmonary artery 阻塞 $ Pulmonary Embolism (確診) {CV}
+竇性速率<60 次/min $ Sinus Bradycardia {CV}
+心房速率 100~250 次/min, P 波形狀或軸不符合 NSR 的樣子, QRS規律 $ Atrial Tachycardia, AT {CV}
+規律性的 QRS，每分鐘>100 次, QRS <0.12 秒, 沒有明顯的 P 波 $ Supraventricular tachycardia, SVT {CV}
+每個 P 波都有接著 QRS 波, PR interval 大於 0.2 秒 $ 1° AV block {CV}
+P 波在 II、III、aVF 高度大於 2.5mm $ 右心房擴大(RAE) {CV}
+V1, V2 的 QRS 波呈現 RSR’, V5, V6, lead I 有遲緩、較深的 S 波, QRS 寬度大於 0.12 秒 $ Right bundle branch block, RBBB （常稱兔子耳朵） {CV}
+Fever和 Chill, Anorexia、體重減輕、全身疲累、呼吸困難、胸痛、腹痛、意識改變 $ IE {CV}
+發燒, 新的瓣膜損傷, 在菌塊的組織學切片中發現感染源 $ IE (確診) (Modified Duke Criteria) {CV}
+年輕、胸痛、背痛、troponin 不高 $ Acute aortic syndrome(AAS) {CV}
+人嘴唇或四肢發紫發黑 $ Cyanosis {CV}
+Syncope After sudden unexpected pain, unpleasant sight, sound, or smell $ Vasovagal syncope {CV}
+Otherwise unexplained dyspnea, Chest pain, either pleuritic or "atypical", Anxiety $ PE {CV}
+HR ≧ 100 次/min, 過去四周內手術或久不運動, 咳血, 癌症, 下肢水腫, High probability V/Q scan $ 肺栓塞 (確診) {CV}
+Oropharyngeal mucus $ postnasal drip {CM}
+Cobblestone appearance $ Postnasal drip（PND） {CM}
+methacholine provocation test, Diurnal variation in peak expiratory flow（PEF） $ Asthma (診斷) {CM}
+Nasal flaring $ 呼吸費力，在嬰幼兒常見屬正常 {CM}
+Tactile fremitus 震動增加 $ Consolidated lung {CM}
+胸 敲診聲音 Tympany $ tension pneumothorax {CM}
+Rhonchi $ 有分泌物在大的氣道內 {CM}
+chest ultrasound $ 積水 {CM}
+FDG-PET activity 不高，但餵 SSTR 就看得到 $ Carcinoid tumor {CM}
+Spirometry 凹進去 $ 肺阻塞 {CM}
+cough, Chest tightness, Wheezing $ Asthma {CM}
+患有過敏性鼻炎, cough, bronchoprovocation test 輕微刺激變化就很大 $ Asthma {CM}
+left mid-lung上面的血管可以走很遠，下面的少了一大塊, 可以看到在 right side 的 apex 處沒有 perfusion, 休克 $ PE {CM}
+haemodynamic instability, RV dysfunction, CTPA not immediately available $ PE (確診)(Treatment indicated) {CM}
+exertional dyspnea, fatigue, 胸痛, 第二心音的生理性 S2 splitting 中，肺動脈關閉的聲音(P2)更明顯 $ 肺高壓 {CM}
+ECG：看到右心肥大, CXR：看到右心肥大，以及Dilated main pulmonary arteries但Pruning of peripheral vascular markings, arterial blood gas, ABG：exertion 用力時可發現hypoxemia, 肺功能測試(pulmonary function test)：DLCO(Diffusing capacity of the lung for carbon monoxide)下降 $ 肺高壓 (確診) {CM}
+Platypnea-orthodeoxia, clubbing finger, polycythemia $ Pulmonary Arteriovenous Malformation {CM}
+Agitated saline Echocardiography看到左心裡有小氣泡。 $ Pulmonary Arteriovenous Malformation {CM}
+ILD, 排除LAM,PAP,遺傳疾病,自體免疫疾病,Drug induced lung dissease,GIP,Granulomatous disease,Opportunistic infection $ IIP {CM}
+ILD, 排除所有其他可能的 ILD 原因, HRCT 看到 UIP 特徵, 肺活檢有UIP $ IPF (確診) {CM}
+DOE、久咳不癒, 異常症狀只侷限在肺部, 無 COPD $ IPF {CM}
+胸部外傷, 局部疼痛、crepitus $ Ribs fracture {CM}
+氣胸合併低血壓 $ Tension pneumothorax (確診) {CM}
+widened mediastinum, Aortic knob 與 AP window obliteration, deviation of the trachea & esophagus $ aortic rupture {CM}
+impairment of mental performance, visual acuity impairment, mild hyperventilation $ hypoxemia {CM}
+Hypercapnia, a/A PO2 Normal, P_I max Normal $ CENTRAL HYPOVENTILATION (Hypercapnia鑑別診斷) {CM}
+hypoxemia, a/A PO2 decreased<0.8, PvO2 Normal $ V/Q ABNORMALITY (hypoxemia鑑別診斷) {CM}
+咳嗽、咳痰, 發燒、午後熱, 夜間盜汗、疲倦 $ TB {CM}
+發燒、胸痛、體重減輕、乾咳、頭痛、流汗、顫抖、虛弱無力、咳血、夜晚盜汗, Halo sign $ Fungal Infections of The Lung {CM}
+肺 Intracellular yeast organisms $ Candida species {CM}
+咳嗽、咳痰；發燒、午後熱；夜間盜汗、疲倦；體重減輕；胸痛、咳血, 石灰狀的病灶 $ TB {CM}
+age＞40y, Dyspnea, Chronic cough, Chronic sputum production $ COPD {CM}
+Ptosis, 複視, 講話會有鼻音，容易嗆到, 無 brain lesion $ Myasthenia gravis {CM}
+Single-fiber EMG 續刺激下的反應減少, 偵測 AchR Ab $ Myasthenia gravis (確診) {CM}
+喘、悶，偶爾會咳但無痰 $ Hypersensitivity pneumonia (HP)，又名 Extrinsic allergic alveolitis, EAA {CM}
+Snoring, Nocturnal choking, Nocturia $ Obstructive sleep apnea, OSA {CM}
+Barium study ：在胸腔看見顯影, 食道完整 $ Congenital diaphragmatic hernia {CM}
+Lower chest discomfort/heaviness, Radiation to shoulder, Compression of adjacent organs $ Tumors of the Diaphragm {CM}
+與GERD、esophagitis相關症狀, Heartburn、逆流, 咳嗽、氣喘、喉炎、牙齒流血 $ sliding hiatal hernia {CM}
+diffuse goiter, thyrotoxicosis, ophthalmopathy $ Grave’s Disease {Meta}
+tiredness, weakness, dry skin, feeling cold $ Hypothyroidism {Meta}
+TSH↑↑, T3, T4↓, I131 uptake ↓, aTPO↑, ATA↑ $ Hypothyroidism (確診) {Meta}
+分泌的 cortisol 過多，但早上測的時候和正常人差不多，晚上則會比正常人高。 $ Cushing’s syndrome {Meta}
+血鈣高時，PTH 也高 $ primary hyperparathyroidism {Meta}
+General and central adiposity, 運動能力減弱, 情緒低落 $ GH Deficiency (GHD) {Meta}
+Provocative test：用藥刺激 GH 分泌，上升的幅度未達預期 $ GH Deficiency (GHD) (確診) {Meta}
+噁心、吐、腹痛、全身痠痛、無力、昏厥、意識不清 $ Adrenal crisis {Meta}
+cortisol 早上 8AM <3𝛃g/dl $ Adrenal insufficiency (確診) {Meta}
+Fatigue and weakness, Dry skin, Decreased hearing $ Hypothyroidism {Meta}
+Prepubertal Onset: High-pitched voice, Absent terminal facial hair, Decreased or absent body hair $ Kallmann Syndrome (hypoganadism) {Meta}
+Hypogonadism, Hypothyroidism, Growth failure, Hypoadrenalism, Loss of red perception, Bitemporal hemianopia, Temperature dysregulation, Appetite and thirst disorders, Obesity, Diabetes insipidus, Sleep disorders, Behavioral dysfunction, Autonomic dysfunction $ Sellar mass lesions {Meta}
+腦下垂體前葉的賀爾蒙分泌亢進, 頭痛, bitemporal hemianopsia $ Pituitary adenoma {Meta}
+polyuria、nocturia、enuresis, polydipsia, hypotonic urine $ 尿崩症 {Meta}
+AVP 分泌量減少 75%以上, 24-h urine 總量>50 mL/kg body weight, 血漿 Osmolarity<300 mosmol/L $ 尿崩症 (確診) {Meta}
+hypertonic dehydration, 心跳快、姿勢性低血壓、azotemia、hyperuricemia、低血鉀 $ 高血鈉 (hypovolemia) {Meta}
+輕微頭痛, 意識錯亂, 噁心、嘔吐 $ hyponatremia {Meta}
+甲狀腺癌細胞核: 比較大、不規則, 有grooving, 有 inclusion body $ Papillary carcinoma (確診) {Meta}
+DEXA T score < -2.5 $ 骨質疏鬆 (確診) {Meta}
+同一個樣本: FPG ≥	126mg/dL, A1C ≥ 6.5% $ 糖尿病(DM) (確診) {Meta}
+anti-islet autoAb $ type 1 DM Type1A {Meta}
+糖尿病 Latent onset， 25 或 30 歲以內, 有 DM associated autoAb, 6 個月內沒有用胰島素治療也沒發生酮酸中毒(DKA) $ Slowly evolving immune-mediated diabetes (LADA) (確診)(丹麥糖尿病協會) {Meta}
+Monogenic diabetes, 18-25 歲發病，僅有 mild hyperglycemia $ MODY2 (Glucokinase (GCK), Glucose sensor) {Meta}
+lethargy、 stupor, band keratopathy, weakness、proximal myopathy $ Hypercalcemia {Meta}
+Parathyroid hyperplasia, Pancreatic cancer, Pituitary adenoma $ MEN1 {Meta}
+Hypercalcemia, 尿鈣< 50 mg/24hr, Cca / Ccr< 0.01 $ Familial Benign Hypocalciuric Hypercalcemia (FBHH) (確診) {Meta}
+seizure, 抽筋, prolong QT $ Hypocalcemia {Meta}
+Weight gain, thin and brittle skin, Osteoporosis $ Cushing’s syndrome {Meta}
+2-day low-dose dexamethasone suppression test, cortisol level >2 ug/dl $ Cushing’s syndrome (確診) {Meta}
+Weight loss、anorexia, loss of inhibition of TSH release, Hypotension $ Adrenal insufficiency {Meta}
+打入 0.25mg ACTH還不能使 cortisol 上升 $ adrenal crisis (確診) {Meta}
+Hypertension and hypokalemia, Morning blood sample in seated ambulant patient PAC >= 15 ng/dL, Intravenous Saline Infusion Test：血清 aldosterone 濃度> 10 ng/dL $ Primary hyperaldosteronism (確診) {Meta}
+Persisted high BP with paroxysmal superimposed, Chest discomfort, Throbbing $ Pheochromocytoma {Meta}
+Resistant hypertension, >2-fold elevation above upper limit of nl in urine catecholamines $ Pheochromocytoma {Meta}
+Hunger, Paresthesias, Tachycardia $ 低血糖 (Autonomic) {Meta}
+神智改變、嗜睡、倦怠無力、口渴, 脫水、尿多、喝多、皮膚乾燥, Kussmaul's respiration $ Diabetic ketoacidosis, DKA {Meta}
+血糖>250mg/dl, PH 值<7.3 and HCO3-≤15mEq/L $ Diabetic ketoacidosis, DKA {Meta}
+kidney damage, Albuminuria達三個月以上, GFR<60 mL/min per 1.73m2超過三個月 $ CKD (確診) {Meta}
+Pericyte dropout $ Retinopathy {Meta}
+持續性的burning pain, paroxysmal stabbing pain, painful dysesthesias/paresthesias $ Neuropathy {Meta}
+multiple glandular副甲狀腺增生, hypercalcemia, PTH升高 $ Parathyroid adenoma {Meta}
+Parathyroid tumor, Gastrinoma $ MEN1 (Wermer’s syndrome) (確診)(Clinical) {Meta}
+multicentric thyroid nodules, Calcitonin 濃度上升 $ Medullary thyroid carcinoma (MTC) {Meta}
+Mucocutaneous candidiasis, Addison’s disease $ APS-1 (確診)
+anti-interferon antibody, 器官衰竭 $ APS-1 {Meta}
+Type 1 DM, 自體免疫的甲狀腺疾病 $ APS-2 (確診) {Meta}
+出生時體重正常、身高略矮，但之後severe growth failure, 骨齡、青春期皆延遲，不過成年後生殖系統及生育功能正常, 低血糖 $ GH insensitivity {Meta}
+neonate, hypoglycemia, prolonged jaundice, hepatitis $ GH deficiency {Meta}
+abdominal pain，bloating，diarrhea，gas，nausea, calprotectin 低 $ Lactase Deficiency {GI}
+在進食或使用抗酸劑可緩解 $ 潰瘍 {GI}
+有阻塞症狀且過去有開過手術 $ 結痂造成的沾黏 {GI}
+Leukopenia $ viral infection {GI}
+Fatigue, Jaundice, Tea-colored urine $ 肝臟疾病 {GI}
+Dysphagia, Weight loss, Hemoptysis $ Esophageal Cancer {GI}
+半夜肚子餓時疼痛 $ Peptic ulcer {GI}
+Urea breath test (UBT)：吐出來的 CO2 含有碳 13 $ H. pylori {GI}
+胃酸分泌過多、嚴重消化性潰瘍、胰臟非β細胞性腫瘤 $ Zollinger-Ellison syndrome (gastrinoma) {GI}
+固體食物吞嚥困難, Nocturnal regurgitation, Postprandial chest pain $ Achalasia {GI}
+Bird beak appearance in LES $ Achalasia (確診) {GI}
+Heartburn, Acid regurgitation, Asthma/ cough $ 胃食道逆流 GERD (確診)(Symptom-based diagnosis) {GI}
+胃食道逆流, Intestinal metaplasia $ Barrett’s (GERD 診斷的分流：GERD/ NERD/ Erosive esophagitis/Barrett’s) {GI}
+吞嚥困難/疼痛, 食道可見很多白白的 patch $ Candida	esophagitis {GI}
+Biliary colic, 發燒、冷顫 $ 膽結石 {GI}
+右上腹的 Rebounding tenderness，且 Murphy’s sign 為 positive, 膽囊長>10cm；寬>4cm；厚度>4mm $ Acute Cholecystitis (確診) {GI}
+Total bilirubin > 4mg/dL, Dilated CBD、Ascending cholangitis $ Choledocholithiasis (High-risk) {GI}
+上腹疼痛、身體彎曲會改善, amylase three times the upper limit of normal $ 急性胰臟炎 (確診) {GI}
+急性上腹疼痛、坐著或是彎曲身體會改善, 嘔吐、發燒、心跳加速、Leukocytosis、血中 amylase 與lipase 增加, 多重器官衰竭 $ 急性胰臟炎 {GI}
+腹痛, 糖尿病, malabsorption、體重減輕 $ 慢性胰臟炎 {GI}
+阻塞性黃疸、輕微疼痛、新發生的糖尿病、體重減輕 $ 自體免疫胰臟炎 {GI}
+影像學上看見胰臟廣泛性腫大，就像臘腸一樣，伴隨主胰管(MPD) 不正常的狹窄。, Serum IgG4>140 $ 自體免疫胰臟炎 (確診) {GI}
+Diarrhea (>4 week) $ malabsorption, IBD, IBS, Infections {GI}
+Fecal osmolality – 2 x (fecal Na + fecal K concentration) > 50 $ Osmotic diarrhea (確診)(治療) {GI}
+近端小腸較嚴重發炎(proximal > distal intestine) $ Celiac disease {GI}
+小腸的 villi 不見ㄌ! (effacement of villi) $ Celiac disease (確診) {GI}
+Diarrhea、黏液、腹部痙攣痛, 症狀持續數周至數月, 帶血的腹瀉 $ Ulcerative Colitis {GI}
+Ileocolitis, Jejunoileitis, Colitis 及 perianal disease $ Crohn’s disease (CD) {GI}
+血便, 黏液, 無系統性症狀, 無疼痛, 無腹部腫塊, 無明顯的腹膜疾病, 無Fistula, 無小腸阻塞, 無大腸阻塞, 對抗生素無反應, 無手術後復發 $ UC (UC vs CD) {GI}
+肚子痛＋大便習慣改變 $ IBS; Irritable bowel syndrome {GI}
+過去三個月內，每周至少一次腹痛, 排便時會更痛, 排便頻率改變 < 3 bowel movements/ week, 年紀<=40, 無Abdominal mass, 無血便, 無體重減輕 $ IBS 功能性腸躁疾病 (確診)(Rome IV Diagnostic Criteria) {GI}
+鼓出來，又縮回去, 請病人站著並且用力→會鼓出來（咳嗽會鼓的更大一包）, 請病人躺下→會縮回去 $ Inguinal hernia {GI}
+Rebound tenderness $ 腹膜刺激 {GI}
+一開始肚臍或上腹部不舒服（合併疲累、想吐、拉肚子又拉不太出來），之後變成右下腹痛。 $ Acute appendicitis {GI}
+抽血：白血球、發炎指數高, 影像： CT 糞石 $ Acute appendicitis {GI}
+腹部絞痛，嘔吐，並且腹脹與便秘, 吐出膽汁 $ Small bowel obstruction (小腸近端阻塞) {GI}
+腹部劇痛 $ Perforated peptic ulcer disease, PPU {GI}
+飽餐或油膩飲食過後，右上腹、上腹疼痛，痛到肩膀。疼痛為持續性的，痛到冒冷汗、發燒、畏寒。 $ Acute Cholecystiti {GI}
+超音波，膽囊有結石、腫脹，膽囊壁發炎、變厚，膽囊周圍積液 $ Acute Cholecystiti (確診) {GI}
+⾎中gastrin濃度很高 $ Zollinger-Ellison syndrome (gastrinoma) {GI}
+flu-like symptom, Dark urine, jaundice $ 肝炎 {GI}
+右上腹痛(RUQ pain),  發燒, Murphy′s sign $ acute cholecystitis (Murphy′s sign = pathognomonic sign) {GI}
+右上腹絞痛(RUQ colicky pain)，右肩輻射痛, bilirubin, Alk-P, G-GT上升, 膽道擴張 $ (choledocholithiasis)(CBD stones) {GI}
+Epigastric pain、peritonitis、sepsis, serum amylase 和 lipase 升高 $ Acute Pancreatitis {GI}
+上胃疼痛、fullness、anorexia、nausea、嘔吐、dysphagia、體重減輕、缺鐵、糞便潛血, 男，50~70 歲, 限制在 mucosa 及 submucosa $ 胃癌 (Early) {GI}
+painless jaundice、pruritus、acholic stool $ Carcinoma of the ampulla of Vater {GI}
+腹痛、腫塊、黃疸 $ Pancreatic Cancer {GI}
+潰瘍、腹瀉, MEN 1 $ Gastrinoma (Zollinger-Ellison syndrome) {GI}
+elevated VIP level $ VIPoma (確診) {GI}
+ANA、 ASMA 陽性, IgG 升高, interface hepatitis、plasma cell infiltration, negative hepatitis markers, 排除ALD、DILI, Steroid treatment 有效 $ Autoimmune hepatitis (AIH) (確診) (type 1) {GI}
+pruritus, hyperpigmentation of skin, 黃疸、hepatomegaly、splenomegaly、ascites、水腫 $ Primary biliary cholangitis (PBC)
+肝腫大、黃疸、腹水, hand tremor、發燒、Hepatic encephalopathy、splenomegaly $ Alcoholic liver disease, ALD {GI}
+肝細胞裡有>5%的steatosis, Alcohol < 20g/d(M) $ Non-alcoholic fatty liver disease (NAFLD) (確診)(Gold standard) {GI}
+ALT/ ALK-P / Bilirubin >2X, 吃完藥的 5~90 天, 排除病毒性肝炎(A、B、C、E、EBV、CMV、HSV),AIH、PBC,ALD、NAFLD、Wilson’s disease、hemochromatosis $ Drug-induced liver injury (DILI) {GI}
+病人有肝硬化加上腹水, 血液 creatinine 濃度> 1.5 mg/dL, 沒有使用有腎毒性的藥物, 沒有休克的跡象, 沒有 proteinuria > 500 mg/D,血尿(microhematuria>50 RBC/HPF),或不正常之腎臟超音波, 停止使用利尿劑兩天以上，並補充 albumin 之後，creatinine 沒有下降至<1.5mg/dL $ Hepatorenal Syndrome, HPS (確診) {GI}
+hemiplegia, aphasia $ supra-tentorial region的問題 {Neuro}
+神經疾病的發作與進程 Chronic $ Degenerative {Neuro}
+Nerve conduction studies (NCS) 震幅下降 $ axonal 的問題 {Neuro}
+可以理解問題，但無法清楚表達，會結巴、句子破碎，聽不太懂。 $ Broca’s Area 問題 {Neuro}
+對側下半部臉癱瘓 $ UMN 出問題（central 壞了） {Neuro}
+走路有一邊手不自然擺動, 呈佝僂的姿態，重心向前, 邁出第一步很難，步伐小，但越走越快 $ Parkinsonian gait {Neuro}
+Pronator drip:手臂 tremor $ 同側的 proximal muscle weakness {Neuro}
+身體前傾、重心往前、駝背 $ Parkinson’s disease {Neuro}
+先扶著患者請患者閉眼睛、雙腳併攏站住，病人one step out $ Romberg sign + (Posterior Column Medial Lemniscus 的 Proprioception) {Neuro}
+Finger-nose-finger (FNF) test 移動路徑歪七扭八 $ dysmetria (同側小腦有問題) {Neuro}
+肌肉不自主地抽動，不一整塊同時收縮，只是一小部分的肌束一直跳 $ Fasciculation (LMN lesion 的 early symptom) {Neuro}
+Weakness, 無 Wasting, 無 Fasciculation, DTR Increase, Babinski’s sign, Spasticity $ UMN lesion (Upper vs. Lower motor neuron syndrome) {Neuro}
+異常位置 = Triceps, 神經控制 = ? $ C7 {Neuro}
+29 歲女性，未婚, amenorrhea 8 個月, galactorrhea 2 周 $ pituitary adenoma {Neuro}
+一歲小女嬰, 頭越來越大, 嗜睡、易吐、看東西眼睛會往下 $ hydrocephalus {Neuro}
+70 歲男性、退休郵差, Bilateral hands numbness and clumsiness, Fell down from stairs this morning $ 中央脊髓症候群 {Neuro}
+61 year old male, office worker, Right buccal region shooting pain for 2 years $ 三叉神經痛 {Neuro}
+暈眩不會太強烈，但是幾個月到幾年反反復復出現, Tinnitus, Subjective fullness of the ear $ Meniere’s disease {Neuro}
+gait ataxia, central nystagmus $ 小腦相關的眩暈 {Neuro}
+頭暈持續時間(單次而言) < 1 min $ BPPV {Neuro}
+vacant stare、言語/動作反應延遲、容易發呆失神、disorientation、speech alternation、incoordination、情緒誇張、記憶損傷 $ cerebral concussion {Neuro}
+五次頭痛發作, 持續 4-72 小時, Pulsatile, Unilateral, 噁⼼ $ 偏頭痛 (確診) {Neuro}
+Yauning,Fatigue,Poor concentration 數小時至數天 $ 偏頭痛 Prodrome {Neuro}
+頭痛 至少10次, 30 min-7天, 雙側, 壓迫性, 輕到中度, 活動不影響, 無噁心或嘔吐, 怕光不怕吵 $ Tension-type headache (緊縮性頭痛 vs 偏頭痛) {Neuro}
+姿勢性頭痛，平躺立即緩解, 腦脊髓液壓力< 60 mmH2O $ Low-pressure headache (確診) {Neuro}
+類似電擊或刺戳性的劇烈神經痛, 說話、吞嚥、刮鬍子、刷牙可誘發, 老年人，女 $ Trigeminal neuralgia {Neuro}
+心臟超音波：心內血栓形成, 心電圖（24 小時）：陣發性AF $ Cardioembolism，CE (確診) {Neuro}
+thunderclap headache, subarachnoid space hemorrhage, 嘔吐、頸部疼痛僵硬 $ aneurysm (破裂) {Neuro}
+cistern內變白了 $ 急性出血 {Neuro}
+出血, 癲癬 $ Cavernous Malformations (或AVM) {Neuro}
+neurofibrillary tangle, neuritic plaque $ AD (確診)(Definite diagnosis) {Neuro}
+情緒、人格、社交改變, 語意問題, 語言表達困難 $ Frontotemporal lobar degeneration (FTLD) {Neuro}
+Rapid progressive dementia, Myoclonus, Visual sign, EEG出現週期性 wave complex $ sporadic CJD (確診)(WHO criteria) {Neuro}
+Cogwheel rigidity, Rest tremor, Shuffling gait $ Parkinson's Disease {Neuro}
+Bradykinesia, TRODAT-1 Scan 不對稱, 不太亮 $ Parkinsonism {Neuro}
+Headache, Seizure, 視力模糊 $ Brain tumors (pituitary adenoma 壓到 optic chiasm) {Neuro}
+頭痛、噁心嘔吐、癲癇、顱神經病變、神經賀爾蒙症狀 $ 腦瘤 {Neuro}
+Severe myoclonic epilepsy of infancy (SMEI), Prolonged, febrile and afebrile, focal and generalized tonic-clonic seizures, myoclonic and atypical absence seizures appear between the age of 1 and 4 years $ Dravet Syndrome {Neuro}
+要同時有 UMN 與 LMN signs $ Amyotrophic lateral sclerosis (ALS) {Neuro}
+找不到其他原因的漸進性退化, 1 個區域出現 UMN+LMN sign $ Amyotrophic lateral sclerosis (ALS) (確診) {Neuro}
+沒有感覺異常的對稱性肌無力, 近端肌肉無力, atrophy與 hyporeflexia $ Myopathy {Neuro}
+lumbar lordosis, calf pseudohypertrophy, 對稱性的近端肌無力，且下肢較嚴重 $ Duchenne muscular dystrophy（DMD）{Neuro}
+CK 上升 10 倍正常值 $ Duchenne muscular dystrophy（DMD）(診斷)(非gold standard) {Neuro}
+Heliotrope rash, Gottron΄s papules, Dilated nailbed capillaries $ Dermatomyositis {Neuro}
+myocarditis, interstitial lung disease, malignancy $ Dermatomyositis (看到皮肌炎要想到其他地方可能也有問題) {Neuro}
+五歲 跑得慢，賽跑都是最後一名, 十七歲 雙腳無力，穿脫鞋會掉, 二十歲 慢慢爬樓梯都吃力 走路不穩容易跌倒 常不知不覺手腳受傷，傷口難癒合 $ Charcot-Marie-Tooth Disease（CMT），亦稱 Hereditary Motor Sensory Neuropathy （HMSN）
+Kayser Fleischer rings, Severe Neurologic synptoms $ Wilson’s disease (確診)（Leipzig scoring system） {Neuro}
+一個女病人，單純 focal seizure，吃藥控制得不錯，brain MRI 也正常。, 妹妹有，兄弟、兒子也有，且男生症狀較嚴重。, 兒子在小兒科治療，而且 brain MRI 發現 pachygyria， $ Lissencephaly {Neuro}
+41 歲男性，自成年起，反覆癲癇發作。, 33 歲 突發性左側視野缺損，被診斷為右側枕葉中風, 41 歲 記憶及認知功能逐漸退步 $ Mitochondrial myopathy, Encephalopathy, LActic acidosis, and Stroke like episodes, MELAS {Neuro}
+Myelopathy, Radiculopathy, Gait disturbance $ C-Spine degeneration {Neuro}
+Non-infectious, acute, monophasic, polyfocal, inflammatory demyelinating events of CNS, in children. $ Acute Disseminated Encephalomyelitis（ADEM） {Neuro}
+T2WI 上，多個、高訊號、不對稱、patchy且界線模糊的病灶，兩個大腦半球都有。, subcortical 及 cortical gray-white matter junction, cyto-albuminologic dissociation, oligoclonal band 陰性 $ Acute Disseminated Encephalomyelitis（ADEM） (確診) {Neuro}
+Non-infectious, Chronic, Relapsing & Remitting, inflammatory demyelinating events of CNS. $ Multiple Sclerosis （MS） {Neuro}
+一次發作 + MRI 有 DIS & DIT $ Multiple Sclerosis （MS） (確診)(McDonald) {Neuro}
+發病年齡 39, 女, Brain MRI 正常, Spinal MRI LETM, longitudinally extensive, central lesions, CSF WBC>50, PMN和mononuclear cells為主, CSF oligoclonal band negative $ NMO (NMO vs. MS★) {Neuro}
+AQP4 Ab 陽性, Area postrema syndrome $ NMOSD (確診) {Neuro}
+快速惡化的行為異常, dyskinesia、memory deficit, 自律神經系統異常 $ Autoimmune Encephalitis（AE）：Prototype 是 Anti-NMDA receptor {Neuro}
+onset <3 months, New focal CNS findings, 排除其他可能 $ Autoimmune Encephalitis（自體免疫腦炎，AE）：Prototype 是 Anti-NMDA receptor (確診) {Neuro}
+DTR 下降, paresthesia、燒灼感、疼痛, orthostatic hypotension $ 周邊神經異常 {Neuro}
+Tinel’s sign, Phalen test：手掌三指半區域產生麻木、刺痛感 $ Median Nerve Lesion (確診) {Neuro}
+Ape hand/Claw hand $ Ulnar Nerve Lesion {Neuro}
+separate , noncontiguous神經病變, Random、multifocal，且病程進展迅速 $ Multiple Mononeuropathy {Neuro}
+長度相關性周邊神經病變, 對稱出現, 輕至中度 $ Polyneuropathy {Neuro}
+Polyneuropathy, Vascular $ Mononeuropathy multiplex (PN DDx) {Neuro}
+遠端腳麻感覺 -> 近端肌肉開始無力 -> Areflexia -> 度過急性期就幾乎完全恢復，病程約 3 個月 $ Guillain-Barre Syndrome {Neuro}
+CSF (cerebrospinal fluid): 高 protein 含量,稍微上升的白血球數量, 電生理異常(NCV/ EMG) $ Guillain-Barre Syndrome (確診) {Neuro}
+Excessive fatigability, 單側Ptosis, 使用Anti-cholinesterase／Cholinesterase inhibitor時，症狀得到緩解。 $ Myasthenia Gravis {Neuro}
+AchR 抗體 陽性 $ Myasthenia Gravis {Neuro}
+對稱性雙側近端肌肉無力，特別是上臂、肩胛肌、大腿。 $ Polymyositis {Neuro}
+無力症狀大於 4 週, Creatine Kinase(CK)大於正常值 8 倍, 神經傳導(NCV)/肌電圖(EMG)：EKG 波形的振幅比正常人小很多。 $ Idiopathic Inflammatory Myopathy {Neuro}
+Brief symptom rating scale-5, BSRS-5 前五題總分小於 3 分 $ 排除自殺危險 {Psy}
+妄想, 幻覺, 出現一個月以上, 社會/職業功能障礙, 連續有病徵至少六個月以上, 排除分裂性情感疾患及情感性疾患, 無 其他發展性疾患病史 $ Schizophrenia (確診)(DSM 5 Criteria) {Psy}
+Euphoric and hyperactivity ≥ 1 week, Grandiosity, need less sleep, spending, sexuality, misjudgment, Marked social/occupational impact, hospitalization, psychosis, Not 2°to medical disorder, substance abuse $ Manic episode (確診) {Psy}
+情緒：elevated, 不太需要睡覺, 穿著inappropriate $ Manic {Psy}
+思考變化, thought blocking, 聽幻覺 $ 思覺失調症 {Psy}
+一個月內顯著出現 妄想,幻覺, 發作的徵狀持續六個月以上, 發作後大部分時間，功能顯著比未發作前降低, 沒有同時出現鬱症或躁症發作, 非為藥物使用或其他疾病引起 $ 思覺失調症 (確診)(DSM-V) {Psy}
+對生活中各種大小事感到過度焦慮並且無法控制、至少持續六個月！, 病人不知道自己在怕什麼！ $ Generalized anxiety disorder (GAD) (確診) {Psy}
+A persistent fear of social situations in which the person is exposed to unfamiliar people., Exposure to the feared situation almost invariably provokes anxiety, The person regognizes that this fear is unreasonable. $ Social anxiety disorder {Psy}
+反覆地忘東忘西, 動作很多，停不下來, 動作很慢 $ ADHD {Psy}
+粗心大意, 無法遵守指示, 組織工作困難, 逃避需要持續用腦力的工作, 遺漏需要的東西, 容易被外界轉移注意力, 手腳亂動, 坐著也扭來扭去, 無法安靜坐著或常離座, 無法安靜遊戲, 話未問完，就搶著回答, 缺乏耐心等待, 常打擾別人, 症狀持續 6 個月以上, 在 12 歲以前出現, 在 2 個或以上的情境下呈現, 造成社會功能障礙, 無法由其他精神疾病解釋 $ ADHD 注意力不足過動症 (確診)(DSM-5 診斷標準) {Psy}
+在社交‐情緒相互性有缺損, 侷限、重複的行為, 在發展早期就存在 $ ASD {Psy}
+情緒低落, 提不起勁, 沒有興趣 $ 憂鬱症 {Psy}
+情緒低落, appetite change, sleep disturbances, 激躁不安, fatigue, 同時存在並持續>2 weeks, 社交dysfunction, 無法以其他內外科疾病、物質濫用來解釋, 從未有躁期或輕躁期發作 $ MDD (確診) {Psy}
+Hazardous use, Social/interpersonal problems related to use $ Addiction (確診)(DSM-5 Substance Use Disorders) {Psy}
+口齒不清、運動不協調、步態不穩 $ 酒精中毒 {Psy}
+憂鬱心情 (持續二周以上), 活動顯著減少, 明顯的體重下降 $ 老年憂鬱症 {Psy}
+表情愁苦、易流淚、時常搖頭嘆息、說話聲音細小、低頭不語, 對生活失去興趣, 睡眠障礙 $ 老年憂鬱症 (重度憂鬱症) {Psy}
+胃口變好, 體重上升, Hypersomnia $ 女性憂鬱症 {Psy}
+腹脹、乳房脹痛、關節或肌肉疼痛、頭痛, 憂鬱、焦慮、心情不定、易怒, 食慾增加、嘴饞、失眠、hypersomnia $ Premenstrual syndrome (PMS) {Psy}
+排除其他內分泌疾病, 情緒沮喪, 腹部水腫, 胸部緊繃, 四肢浮腫, 體重上升, 關節疼痛 $ Premenstrual Dysphoric Disorder (PMDD) (確診) {Psy}
+夜間盜汗, 睡眠障礙, 關節疼痛 $ Menopause {Psy}
+Fluctuated consciousness + unable to keep attention appropriately $ Delirium (確診) {Psy}
+腫瘤, Dysphoria, Anhedonia, Hopelessness; worthlessness $ 需要被治療的憂鬱症 (憂鬱症與腫瘤) {Psy}
+中風, Manic symptoms, Anxiety symptoms, Apathy $ 中風後常出現的精神症狀 {Psy}
+Snoring $ Obstructive Sleep Apnea Syndrome (OSAS) {Psy}
+Urge to move the legs dysesthesias, Rest induced, Gets better with activity $ Restless Leg syndrome,RLS，也叫做 Wilis-Ekbom Disease {Psy}
+Excessive daytime sleepiness, Cataplexy, Hypnagogic hallucination, Sleep Paralysis $ Narcolepsy (Tetrad) {Psy}
+Multiple Sleep Latency Test(MSLT)：五次測試平均入睡時間＜８分鐘且有≧２次進入 REM $ 猝睡症 (診斷最後步驟) {Psy}
+suspicious, 冷漠、疏離，且無法建立正常人際關係。不易相信別人，將他人行為是為威脅或意圖不軌。過度警覺、懷疑 $ Paranoid {Psy}
+擔心、害怕、顫抖、肌肉緊繃、坐立不安、戰戰兢兢、易受驚嚇、煩躁、心悸、胸悶、冒冷汗、口乾、頭暈、吸不到空氣 $ Anxiety disorders {Psy}
+在兩個星期內同時有 情緒沮喪,對本來有興趣的事物失去興趣,有明顯的體重增加,失眠,肢體上的變好動, 不符合其他混合性的心理失常, 已足夠造成日常生活的機能失常, 不是因為受到毒品或醫藥副作用的影響, 不能夠用個人的不幸遭遇引起的暫時性悲傷所能解釋 $ Depression (確診) {Psy}
+情緒亢奮、愉悅、自信滿滿、過度樂觀、興趣增加、好管閒事、計畫一堆、慷慨大方、花錢如流水、突然熱衷於政治、睡眠減少、體力旺盛、急躁、易怒、攻擊、破壞行為、做出魯莽的事 $ Mania, Bipolar disorder {Psy}
+無法專注於細節的部份, 無法好好坐著，會任意離開座位, 無法聽進別人對他說話的內容 $ ADHD {Psy}
+對於剛發生的事情全部不記得, 忘了自己把東西放在那裡，忘了關水龍頭、瓦斯。, 可自己處理生活起居 $ 失智症 {Psy}
+小孩, 發燒+Diffuse erythema, 經過半天開始Generalized desquamation $ Staphylococcal Scalded Skin Syndrome (SSSS， 4S) {Integ}
+皮膚皺摺的地方 會癢的疹子, 晚上會更癢, Barrow $ Scabies {Integ}
+KOH smear：見到蟲體 $ Scabies (確診)（最常用） {Integ}
+Tzanck smear：看到Multinucleated giant cell $ Herpes Simplex Virus（HSV） (確診) {Integ}
+疹子由頭臉往軀幹長, Lesions of all stages, 水泡周圍有一圈紅暈，書上稱它叫做 Dew drop on a rose petal $ Varicella/Chickenpox {Integ}
+erythematous nodule（painless）, regional lymphadenopathy（non-tender） $ Primary Syphilis： chancre {Integ}
+TPHA (+) $ Syphilis (確診)(Treponemal test) {Integ}
+Painful ulcer和Painful lymphadenopathy $ Chancroid {Integ}
+排成一列的細胞，長得像一排魚，稱為 school of fish $ Chancroid (確診) {Integ}
+painless的 erosion/ulcer，幾天後自己癒合, tender的lymphadenopathy，走路會一拐一拐, 直腸會痛、Bloody discharge $ Lymphogranuloma venereum {Integ}
+painless的 ulcer, 無淋巴腫大 $ Granuloma Inguinale {Integ}
+safety-pin的 Donovan body $ Granuloma Inguinale (確診) {Integ}
+painful ulcer, Grouped vesicles $ Herpes simplex Virus（HSV） {Integ}
+Tzanck smear 可看到 multinucleated giant cell $ Herpes simplex Virus（HSV） (確診) {Integ}
+Kaposi sarcoma, xerosis, pruritus $ AIDS (AIDS 的皮膚黏膜表徵) {Integ}
+Erythema multiforme $ Drug eruption {Integ}
+STD, Painful ucer, Tzanck smear 沒看到 multinucleated giant cell $ Chancroid (看到Genital ulcer的診斷流程) {Integ}
+Auspitz sign, Nail pits, peripheral and axial arthritis，且一旦變形之後很難回復 $ psoriasis（發音：p 不發音） {Integ}
+inflammatory articular disease, Negative test result for RF, Dactylitis, Radiological evedence of juxta-articular new bone formation $ Psoriatic arthritis (PsA) (確診) (CASPAR classification criteria) {Integ}
+atrophy, telangiectasia, hyperpigmentaion, 惡性的cutaneous T-cell lymphoma (CTCL) $ LPP (retiform parapsoriasis→幾乎100%發展成mycosis fungoides)(LPP vs. SPP) {Integ} 
+多發性erythematous papule，伴有vesiculation、pustules，甚至hemorrhagic necrosis, 痊癒後有類似水痘疤的varioliform scars, 頭痛、全身乏力、關節痛、廣泛性淋巴結腫大、發燒和菌血症 $ PLEVA {Integ}
+Purple, Polygonal, Pruritic, Papules $ Lichen planus(LP) (4P) {Integ}
+atrophy, telangiectasia6. -Hyper/hypo-pigmentation $ Large plaque parapsoriasis(LPP) (Triad) {Integ}
+對稱, 侷限, 邊緣明確, 沒有潰瘍, 纖維堆疊得較compact, 種類、大小較uniform, 聚集的細胞smooth border $ 良性 (從結構上區分良性惡性) {Integ}
+長超過傷口，造成癢、痛、緊，無法忍受 $ Keloids / hypertrophic scars {Integ}
+出生數週後開始成長 8～18 個月左右, 之後 5～8 年會慢慢消退，直至normal $ Hemangioma of infancy (HOI) ——屬於 Vascular tumor {Integ}
+一開始為紅斑，發展成 hypertrophic lesion $ Actinic keratosis（AK） {Integ}
+pink, pearly-white papule, prominent telaniectasis, rodent ucler $ Basal cell carcinoma（BCC） (Nodular) {Integ}
+Non palpable, <1 cm $ Macule (Primary Morphology) {Integ}
+由增厚及角化不正常的角質層脫落而成 $ scale (Secondary lesion) {Integ}
+itching、 redness、papulovesicles和scaling $ Eczema {Integ}
+Pruritus, 嬰兒facial、extensor, IgE 升高 $ Atopic Dermatitis {Integ}
+erythema、scaling、pruritus、prominent follicular opening, 頭皮(會癢)、眉毛處(glabella)、nasolabial fold、retroauricular area、胸腔處 $ Seborrheic dermatitis {Integ}
+seborrhea, acne、amenorrhoea, hirsutism, rapid progressive pattern hair loss $ hyperandrogenism (SAHA syndrome) {Integ}
+discoid with follicular plugging and adherent scale, Erythema、scale,and pigmentary changes are seen in the center of discoid lesions $ Discoid lupus erythematosus {Integ}
+Superficial, subcorneal,noninflammatory vesicles, 溫暖環境的嬰兒 $ Miliaria crystallina {Integ}
+很難聞的體味 $ Apocrine Bromhidrosis {Integ}
+小孩, 嘴唇與 buccal 出現黑斑 $ Congenital Hypermelanosis with Lentiginosis：Peutz–Jeghers Syndrome {Integ}
+褐色斑點，邊緣不規則(花花的)，色素不均勻 $ Melasma {Integ}
+皮膚一塊黑黑的長出毛，scapula region $ Becker's Nevus (Becker Hamartoma, Becker Melanosis) {Integ}
+annular lesion、active border, 界線清楚，特別紅、隆起，皮屑多, central clearing $ Tinea corporis {Integ}
+皮膚免疫反應(小水泡)為一遠端原發性黴菌感染, 在 id reaction 處未能發現 hyphae 菌絲, 在原發性黴菌感染治好後，id reaction 也隨之消失 $ Dermatophytid reaction (確診) {Integ}
+嘴角 erythema, fissuring, maceration 與soreness $ Oral candidiasis {Integ}
+在皮膚與黏膜出現flaccid blister,大面積,易破, Positive Nikolsky's sign, secondary infection、伺機感染、脫水 $ Pemphigus vulgaris, PV {Integ}
+可觀察到表皮層 intercellular 有 IgG auto-Ab 和 antigen 沉積，像蕾絲狀, No complement involvement, Desmogleins 為主(Dsg3、Dsg1) $ Pemphigus vulgaris, PV {Integ}
+難以治療、intractable painful mucosal erosions, 水泡沒那麼多、polymorphous skin lesions $ Paraneoplastic pemphigus 或 Steven-Johnson syndrome {Integ}
+intraepidermal acantholysis, interface dermatitis, intercellular有 IgG 和補體沈積，多一層在 basement membrane zone $ Paraneoplastic pemphigus （從切片就可跟 SJS 進行鑑別！） {Integ}
+看得到、裂解在深處的large tense blisters on erythematous skin, intertriginous regions, Negative Nikolsky’s sign $ Bullous pemphigoid (BP) {Integ}
+裂解在 lamina lucida, 發炎細胞多，dermis 跟 blisters 都 busy, DIF：linear complement 3 (C3) and IgG deposition $ Pemphigoid (確診) {Integ}
+孕婦, 很癢很癢的 papulovesicles, 主要分佈在肚臍周圍，蔓延到軀幹、四肢 $ Pemphigoid (herpes) gestationis {Integ}
+皮膚增厚變粗、關節活動受限、eruptive xanthomas、acanthosis nigricans, 下肢潰瘍, necrobiosis lipoidica, granuloma annulare, acquired perforating dermatosis $ Cutaneous change of DM {Integ}
+Well demarcated atrophic yellow-brown plaques & Glazed-porcelain appearance, Ulcer : 傷口下有 granulomatous inflammation 和 collagen degeneration $ Necrobiosis lipoidica {Integ}
+嘴巴跟舌頭出現hyperkeratosis $ Acanthosis Nigricans (AN) {Integ}
+Photosensitivity, Hyper/Hypo pigmentation, Scerodermoid change $ Porphyria cutanea tarda（PCT） {Integ}
+Easy bruising 眼部, Macroglossia $ AL amyloidosis (AL：amyloid light-chain) {Integ}
+Crystal violet，被染成深紫色 $ Amyloidosis (確診) {Integ}
+Bilateral painless non-pitting nodules and plaques, 摸起來 waxy and indurated，很難壓下去, pretibial，延伸到腳背 $ Pretibial myxedema (現今大部分都改稱 thyroid dermatopathy) {Integ}
+butterfly rash, nasolabial fold sparing, 全身性的症狀 $ Acute cutaneous LE (ACLE) {Integ}
+Antinuclear antibodies (ANA) at a titer of ≥ 1:80 on HEp-2 cells, Non-scarring alopecia, Acute pericarditis, Joint involvement $ SLE (確診) {Integ}
+對稱近端肌肉無力, 肌肉切片有發炎細胞, 血液檢查中骨骼肌酵素濃度上升, 典型的皮肌炎皮膚表現 $ Dermatomyositis (確診) {Integ}
+Heliotropic eyelids, Gottron sign, V sign $ Dermatomyositis {Integ}
+腳疼痛、神經功能異常(感覺、運動等) $ Sciatica {Ortho}
+局部下背痛, 動作會造成疼痛, 神經理學檢查正常 $ 脊椎的退化性疾病 Dysfunction (退化三期) {Ortho}
+漸漸發展的疼痛，包含下背部、臀部、下肢等, 雙側, 神經性跛⾏ $ 腰椎退化性疾病 {Ortho}
+跛⾏距離 每次不⼀樣, 停⽌動作後緩解 慢, 疼痛緩解⽅法 flexion、坐下, 爬坡 不痛, 騎腳踏⾞ 不痛, 症狀發⽣ 由近端往遠端, 肌⾁無萎縮, 背痛, ⽪膚表現 $ 神經性 (vs 血管性跛行) {Ortho}
+按壓 A1 pulley會痛，且⼿指無法正常伸直 $ trigger finger/stenosing tenosynovitis {Ortho}
+快速腫脹、疼痛, 外觀改變、功能喪失, Snuff box 處感到壓痛與異聲產⽣ $ Scaphoid fracture {Ortho}
+患者的的第四指在放鬆的情況下無法與其他三指⼀樣彎曲 $ Flexor tendon injuries {Ortho}
+橈側三指半會酸⿇及刺痛感，⼿掌不會。, ⼿腕在晚上特別⿇痛, ⼤⿂際肌群萎縮，⼿腕無⼒ $ Carpal Tunnel Syndrome {Ortho}
+Dark amber urine, Hypovolemia, Metabolic acidosis $ Crush syndrome=Traumatic rhabdomyolysis {Ortho}
+Blue sclera, Hearing loss, Dentinofenesis $ Osteogenesis Imperfecta {Ortho}
+Impingement Sign（此測試名稱為 Neer test） $ 旋轉肌群受傷 {Ortho}
+Tinel Sign $ cubital tunnel syndrome或carpal tunnel syndrome {Ortho}
+Phalen’s. test $ Carpal tunnel syndrome {Ortho}
+Patrick’s test $ 問題在於髖關節 {Ortho}
+Anterior drawer test $ 前十字韌帶損傷或斷裂 {Ortho}
+Thompson test $ 阿基里斯腱斷裂 {Ortho}
+Patellar tendon reflex $ 檢查 L4 是否有 lesion {Ortho}
+Forward-bending test (Adam's test) $ Scoliosis {Ortho}
+Night pain, 10-20 歲, 膝關節 $ 骨腫瘤 (原發性) {Ortho}
+13 歲男性, 生長板未癒合, 長在 epiphysis $ Chondroblastoma (診斷思路) {Ortho}
+5-35y/o, Night pain, 小小的 nidus $ Osteoid Osteoma (OO) {Ortho}
+疼痛(尤其夜晚), 可摸到腫塊, 動作受限 $ Classic osteosarcoma {Ortho}
+疼痛(尤其夜晚), Sunburst, Codman′s triangle $ Classic osteosarcoma {Ortho}
+疼痛、發燒、倦怠、厭食, 體重減輕, CRP 與 ESR 升高 $ Ewing′s Sarcoma {Ortho}
+疼痛、腫脹、ecchymosis, Painful ROM：肩膀不太能動, Displacement $ Clavicle Fracture {Ortho}
+< 1y old fracture, 營養不良、體重過輕、全身健康狀況不佳。, 社經階層較低，生長環境擁擠。 $ 兒虐 (依兒童福利法，要通報) {Ortho}
+Raccoon eye sign, 內臟受傷, 顱骨骨折、肋骨骨折 $ 兒虐 {Ortho}
+三歲以下, Trendelenburg gait, metatarsus adduction $ Developmental Dysplasia of Hip , DDH {Ortho}
+股骨頭缺血性壞死：3-8歲, 髖部疼痛、大腿及膝蓋內側疼痛跛行 $ Legg-Calve-Perthe disease(LCPD) {Ortho}
+9-14 歲，肥胖男孩，髖部疼痛、大腿及膝蓋內側疼痛、跛行、患腿外轉 $ Slipped capital femoral epiphysis (SCFE) {Ortho}
+身高 <3rd percentile line $ Short stature {Ortho}
+有人要拿球棒打你，你手舉起來要防衛然後你的 ulna 就被打斷了 ( QQ ...痛呀... $ Monteggia fracture {Ortho}
+外型呈現如 dinner fork，骨質疏鬆，另外從 X 光看到 Radial inclination 及 Radial height 減少 $ Colles’ fracture {Ortho}
+最常見的腕骨骨折處 $ Scaphoid骨折 {Ortho}
+Syndesmosis先受傷→ Fibula →Posterior malleolus→ 最後是內側韌帶受傷/Medial malleolus fracture。 $ Sup-ER（Supination-external rotation） {Ortho}
+Bohler angle：Anterior process、posterior facet、tuberosity 三者的位置翻轉，tuberosity 跑到上面去了 $ Calcaneal Fractures {Ortho}
+骨頭Shortening, Varus, Internal rotation $ Malunion (Intertrochanteric fracture) {Ortho}
+輕微的局部骨頭痛&腫脹, 已出現症狀>2 周, “wall-off” abscess cavity $ Subacute osteomyelitis (Brodie abscess) {Ortho}
+Sequestrum $ 骨髓炎 {Ortho}
+小孩子發燒, refuse to bear weight、antalgic limp、髖關節腫熱。, 呈現 30~60° flexion、10~15° lateral rotation、10° abduction $ Septic arthritis {Ortho}
+關節腫脹，骨頭間被撐開，關節腔空間變大 $ Septic arthritis {Ortho}
+Anterior apprehensive test $ 肩關節前位脫臼 {Ortho}
+medial elbow pain, flexion contracture, locking and catching $ Painful throwing elbow (Medial instability) {Ortho}
+Neer test $ Subacromial impingement {Ortho}
+Moving valgus stress test $ Painful throwing elbow (Medial instability) {Ortho}
+Pop sound heard, swelling, loss of full range of motion $ ACL tear {Ortho}
+posterior drawer test $ PCL 損傷 (確診)(最準確) {Ortho}
+pain, instability to actively extend the knee, palpable gap $ Extensor Mechanism (Triad) {Ortho}
+pain, >40 歲, patella baja $ Extensor Mechanism {Ortho}
+非發炎性, 膝關節的內側, 股骨膝蓋 varus, 軟骨下sclerosis, 形成spur $ OA (OA 與 RA 的鑑別) {Ortho}
+Simple fracture $ Low energy trauma*** {Ortho}
+T 值<-2.5，且發生骨折 $ Severe Osteoporosis (確診) {Ortho}
+關節疼痛, 疼痛起始年齡 30-60, 男生 $ Gout {AIR}
+Synovial Fluid: Appearance Transparent, Viscosity High, Cells per mm3 200-2000, % PMNs <10%, Crystals calcium pyrophosphate, Culture Negative $ Osteoarthritis {AIR}
+Raynaud's phenomenon $ 血管擴張有問題 {AIR}
+dsDNA $ 紅斑性狼瘡（SLE） {AIR}
+swan neck deformities, Boutonnière Sign，在第 5 指 $ Rheumatoid Arthritis (RA) {AIR}
+機械力傷害, Enthesitis $ seronegative spondyloarthropathy {AIR}
+按下去會消退，放開手後又會供起來 $ Wheal {AIR}
+針狀的負性偏折光 $ 痛風 {AIR}
+ANA (>1:80), Acute pericarditis, Joint involvement $ Systemic Lupus Erythematosus (確診)(EULAR/ACR) {AIR}
+Malar rash, Jaccoud′s arthropathy, Pericarditis and pleural effusion $ Systemic Lupus Erythematosus {AIR}
+1 個以上關節腫脹, 無法以其他疾病來解釋的滑膜炎, 10 個以上關節侵犯(內含至少一個小關節), 高濃度類風濕因子陽性 $ Rheumatoid Arthritis (RA) (確診)(2010 EULAR/ACR) {AIR}
+PIP 和 MCP 變化, 巨噬細胞、肉芽組織包圍壞死纖維形成的結節, 手腕和 MCP 明顯有被吃掉 $ Rheumatoid Arthritis (RA) {AIR}
+Skin thickening of the fingers of both hands extending proximal to the metacarpophalangeal joints $ Scleroderma (確診)(2013 ACR / EULAR) {AIR}
+Taut skin, Raynaud′s phenomenon, Sclerodactyly $ Scleroderma {AIR}
+肌肉無力病變, EMG檢查結果 肌肉病變形式, muscle enzyme ↑(～50 倍), 肌肉切片結果 初級發炎反應CD8/MHC-I 複合體,沒有 vacuoles, 無皮疹鈣化沉積 $ polymyositis(PM) (Inflammatory Myopathies (IM) 診斷分類) {AIR}
+Göttron papules, Heliotrope Sign, 淋巴球浸潤 $ Inflammatory Myopathies (IM) (多發性肌炎) {AIR}
+Labial salivary gland with focal lymphocytic sialadenitis and focus score of ≥ 1 foci/4mm2, Anti-SS-A/Ro positive $ Sjögren′s Syndrome (確診)(2016) {AIR}
+使用 Rose Bengal 染色 缺乏淚液而受損的角膜和結膜上皮細胞, 肺部纖維化 $ Sjögren′s Syndrome {AIR}
+pulmonary-renal syndrome, purpura, neuropathy, ANCA associated, Granulomatous, Asthma/eosinophilia $ EGPA (Diagnostic Approach to Small Vessel Vasculitis) {AIR}
+≥ 3 months back pain and age of onset < 45 years, Sacroiliitis on imaging, inflammatory pack pain $ Seronegative spondyloarthropathy (確診) {AIR}
+逐漸有駝背狀況，同時也有骨質疏鬆, Sacroiliac joint很白, 脖子部分也僵硬 $ Ankylosing spondylitis {AIR}
+Hip pain, ESR <20 mm/hour, Radiographic femoral osteophytes $ Osteoarthritis (OA) (確診) {AIR}
+osteophyte, reduced joint space, sclerosis $ Advanced Osteoarthritis (Grade III) {AIR}
+6 週以上, Inflammatory, Symmetric, Peripheral $ Rheumatoid Arthritis {AIR}
+swollen joint 排除 DIP、1st carpometacarpal joint 與 1st metatarsophalangeal joint >10 關節（至少一個小關節）, RF (high+) $ Rheumatoid Arthritis (確診)(ACE/EULAR criteria) {AIR}
+Chronic symmetrical peripheral polyarthritis, Insidious, not acute and definite, 關節腫脹、tender、活動範圍受限 $ RA {AIR}
+Soft tissue swelling, Juxta-articular osteoporosis, Marginal erosion $ RA {AIR}
+Uric acid 組成, 偏振光 陰性, 1st MTP, 針狀, Rat-bite erosions $ Gout (鑑別診斷 Inflammatory 中的 Gout 和 Pseudogout) {AIR}
+表現出thromboembolism events，在年輕的時候, Recurrent abortion, hemolytic anemia、thrombocytopenia $ Antiphospholipid Syndrome {AIR}
+Anti Jo-1 antibody $ myositis 侵犯到 lung 導致 cryptogenic fibrosing alveolitis {AIR}
+ACPA/anti-CCP $ RA {AIR}
+Malar rash, Livedo reticularis, 腎炎 $ SLE {AIR}
+ANA ≧ 1:80, Synovitis in at least two joints, and at least 30 min of morning stiffness, Acute pericarditis $ SLE (確診) {AIR}
+Rheumatoid factor陰性, sacroiliitis、脊椎發炎, peripheral arthritis、enthesitis $ Seronegative Spondyloarthritis (SpA) {AIR}
+病人小於45歲&有3個月以上的背痛, 影像學看出sacroiliitis, Inflammatory back pain $ Axial Spondyloarthritis (SpA) (確診)(ASAS) {AIR}
+1947: 正常, 1957: 膝蓋微彎，小駝背, 1967: 明顯deformative，需要拿拐仗 $ Ankylosing Spondylitis (AS) {AIR}
+sacroiliitis 雙側 grade>= 2, 超過三個月的下背痛與僵硬，透過運動可改善、休息無法緩解疼痛 $ AS (確診) {AIR}
+DIP joint、指甲侵犯, Dactylitis, Pencil in cup $ Psoriatic Arthritis {AIR}
+在急性痢疾發作後出現 urethritis、conjunctivitis 和arthritis $ Reiter’syndrome (triad) {AIR}
+Heliotrope rash, Gottron’s sign, 鏡檢發現指甲基部微血管變少 $ Dermatomyositis (DM) {AIR}
+50~60歲, 對稱性近端肌肉無力, CK 發病時50 倍,治療後10 倍, 發炎細胞 CD8+, 發炎細胞攻擊 肌纖維本身, 無補體, anti-ARS $ PM (DM vs PM) {AIR}
+近端和遠端都無力, Creatine kinase level：大約是正常值的十倍, Autophagic vacuoles $ Inclusion-Body myositis（IBM） {AIR}
+Finger flexor weakness, No treatment response, Age at first symptoms > 40, Neck flexors are relatively weaker than neck extensors, 無 Heliotrope rash, 無 Gottron's papules, 無 Gottron's sign, Anti-Jo-1 autoantibody present $ IBM (確診)(2017criteria)(http://www.imm.ki.se/biostatistics/calculators/iim) {AIR}
+Age at first symptom < 18, Heliotrope rash, Gottron's sign, Anti-Jo1 autoantibody present $ JDM (確診)(2017criteria)(http://www.imm.ki.se/biostatistics/calculators/iim) {AIR}
+未知來源的慢性廣泛性骨骼肌肉疼痛, fatigue, sleep disturbances, 思考記憶等認知功能障礙，又稱 fibro fog $ Fibromyalgia, FM {AIR}
+WPI ≧ 7 且 SS ≧ 5, 症狀持續至少 3 個月, 沒有其他疾病可解釋疼痛 $ Fibromyalgia, FM (確診)(2010 ACR criteria) {AIR}
+燒灼感，刺痛，撕裂痛, Hyperalgesia、Allodynia、Hyperesthesia, 皮膚溫度比較高(1 度左右)，比較紅腫後慢慢變萎縮 $ Complex regional pain syndrome {AIR}
+Thermography 溫度比較高, Sweat testing 留超多, Radiographic testing 可以看到一點點骨質流失 $ Complex Regional pain syndrome {AIR}
+一個 86 歲老先生左膝紅腫熱痛一周，急診抽取 45cc 關節液，結果如下：, WBC：47 萬、葡萄糖<2 $ 感染性關節炎 {AIR}
+Synovial fluid analysis: Crystals on polarizing microscopy? No, Organisms on Gram stain? No, WBC >50,000 $ septic {AIR}
+發燒(>38°C)、night sweat、體重減輕(>10%) $ lymphoma、TB、惡性腫瘤 (B-symptom) {AIR}
+理學檢查或影像上出現某個器官的腫大, 血清當中 IgG4 >135 mg/dL, 病理切片顯示 IgG4+ cell 占全部 IgG+ cell 超過 40% $ IgG4-RD (確診) {AIR}
+Bilateral hilar adenopathy, 手上有許多 nodules, 肝脾腫大 $ Sarcoidosis {AIR}
+oral ulcer、genital ulcer, Positive Pathergy test, Erythema nodosum $ Behçet's disease {AIR}
+Recurrent oral ulceration（一年內反覆>3 次）, 一年內出現 genital ulcer, Eye lesions, Skin lesions $ Behçet's disease (確診) {AIR}
+Uveitis, Oral aphthae $ Behçet's disease (確診)(診斷流程) {AIR}
+準備動肺癌手術的阿好姨：在麻醉後一小時內耳朵和嘴唇變得超爆腫，vital sign 相當不穩定，趕快急救，手術因此延期 $ 藥物過敏 {AIR}
+皮膚發癢、潮紅；急性蕁麻疹；血管性水腫：都發生在皮膚較鬆的地方, 支氣管攣縮, 嘔吐、腹部絞痛、腹瀉 $ 第一型過敏反應(立即型) {AIR}
+ENDA questionnaire: Possible drug hypersensitivity, Skin tests not available, Drug provocation test: Results POSITIVE $ Proven drug hypersensitivity (藥物過敏的診斷流程) {AIR}
+疹、破、痛、紅、腫、燒 $ 過敏 {AIR}
+Serum sickness $ Type III (Gell and Coombs classification of Drug Allergy) {AIR}
+DRESS $ Type IVb (eosinophil) (Gell and Coombs classification of Drug Allergy) {AIR}
+SJS, 水泡 $ Type IVc (Gell and Coombs classification of Drug Allergy) {AIR}
+AGEP, 膿包 $ Type IVd (T cells→IL-8(CXCL8)、GMCSF→neutrophi) (Gell and Coombs classification of Drug Allergy) {AIR}
+Basophil Activation test、Skin test $ Type I {AIR}
+Allopurinol 過敏 $ HLA-B*5801 {AIR}
+claudication, 頭偏一邊會昏倒, 沒有脈搏 $ LVV (Takayasu) {AIR}
+IFT on ethanol-fixed and formalin-fixed neutrophils: Perinuclear/nuclear staining on ethanol-fixed cells,非 P-ANCA pattern, IFT on HEp2 (+) $ ANA (給大家以後不幸遇到 ANCA 用的流程圖) {AIR}
+22y/o 林小姐，東海大學, 皮膚爛掉部分成為火山錐形 $ ANCA Associated Vasculitis(AAV) {AIR}
+有皮膚疹，皮膚會有紅紅的可摸到的紫斑, 無痛性血尿，顯微鏡下紅紅的, 肚子痛，有血便, 關節腫 $ Henoch-Schönlein purpura, HSP (3 紅 1 腫) {AIR}
+皮膚紫斑潰瘍、週邊神經病變、腎病變 $ 肝外：冷澱球蛋白血症 (慢性 C 型肝炎) {AIR}
+Calcinosis、Raynaud' s syndrome、Esophageal dysmotility、Sclerodactyly、Telangiectasia $ CREST syndrome (Systemic sclerosis SSc) {AIR}
+微血管擴張, abdominal distention and bloating, nonspecific interstitial pneumonitis pattern, NSIP $ SSc {AIR}
+Skin thickening of the fingers of both hands extending proximal to the metacarpophalangeal joints, 排除其他發炎、trauma $ 系統性硬化症和硬皮病 (確診) {AIR}
+皮膚變化及分布 軀幹、背部、頸部, 無 涉及皮膚外, 腫脹的膠原蛋白束，黏液蛋白堆積 $ Systemic sclerosis (鑑別診斷) (vs Scleromyxede ma, Nephrogenic systemic fibrosis, Eosinophilic fasciitis) {AIR}
+Anti-RNP at hemagglutination titer of ≥1 : 1600, Swollen hands, Synovitis, Myositis (biologically proven) $ Mixed connective tissue disease ,MCTD (確診)(Alarcon Segovia Criteria) {AIR}
+Raynaud's phenomenon、手部水腫、關節痛、關節炎、肌肉痛、發炎性肌肉病變、皮疹、食道運動功能障礙、間質性肺病 $ Mixed connective tissue disease( MCTD )  {AIR}
+48 歲體型稍胖的中年男子，理學檢查，發現左腳除了紅腫熱痛外（可以看到大拇指紅腫）還發了燒(38.52 度)，周邊血液白血球高（15420/mm3） $ 高尿酸血症 {AIR}
+至少發生一次關節腫脹。, 在有症狀的關節或黏液囊中出現尿酸結晶 $ 痛風 (確診)(2015 ACR/EULAR gout classification criteria) {AIR}
+老年人, 退化性關節炎, 膝關節急性發作, 發燒 $ CPPD {AIR}
+把關節液拿去用 alizarin red stain 染色看到很強烈的紅色 $ Articular BCP crystal disease (確診) {AIR}
+眼睛經常紅紅的，乾澀感，視力模糊，畏光, 味覺改變, ILD $ Sjögren’s syndrome {AIR}
+切片下可看到淋巴浸潤的唾腺炎且 Focus score ≥ 1 foci/4mm2, Anti-SSA/Ro 是 positive, 排除 HCV infection, 排除老化現象, 排除 眼瞼炎、慢性結膜炎、隱形眼鏡刺激、病毒感染、糖尿病、藥物、焦慮症或憂慮症 $ Sjögren’s syndrome (ACR/EULAR criteria) {AIR}
+Bilateral reticular opacities, Ground-glass opacities(有 GGO 但不明顯), Basal and subpleural predominance, ibrosis and 有 honeycombing, 預後很差、比 NSIP 差★ $ UIP (UIP 和 NSIP 的影像學比較) {AIR}
+肺高壓、血管病變, Fibrotic NSIP $ 硬皮症所導致的嚴重肺部纖維化 {AIR}
+Pain, Joint deformity, Instability $ OA {AIR}
+persistent usage-related joint pain, 年齡≥ 45 歲, morning stiffness≤ 30 分鐘 $ OA (確診)(臨床診斷) {AIR}
+關節腔狹窄, 產生骨刺, Subchondral sclerosis $ OA {AIR}
+double halo sign, serositis、肺栓塞、間質性肺病、肺高壓、shrinking lung, glomerulonephritis $ SLE {AIR}
+ANA -ve, Hypo-complementaemia and positive aPL, EULAR/ACR score ≥10 with at least one clinical criterion $ Clinical SLE (2021 熱騰騰 criteria(EULAR/ACR)) {AIR}
+Joint 有 Doppler signal $ synovitis {AIR}
+在 longitudinal及 transverse都看到骨頭表面的不連續 $ bone erosion {AIR}
+Double contour sign $ Gout {AIR}
+看到肌腱周圍出現一圈黑黑的積水 $ Tenosynovitis {AIR}
+肌腱出現 Hypoechoic 訊號, 出現變厚的肌腱, 出現 Doppler signal $ Enthesitis {AIR}
+Bursa 中間充滿水(黑色一大片) $ bursitis {AIR}
+Opportunistic infection, Kaposi’s sarcoma $ 愛滋病(AIDS)發病期 {Inf}
+舌頭、硬顎、軟顎等處長出一層白白厚厚的東西，甚至一路到食道(病人抱怨有吞嚥困難的情況，疼痛….) $ Oral candidiasis (thrust) ＆ Esophageal candidiasis {Inf}
+支氣管發炎，出現類似過敏症狀, 肺裡面有一些慢慢爛掉發炎的組織, 肺部有fungal ball $ Aspergillosis {Inf}
+在血液觀察到 Galactomannan(GＭ) $ 麴菌感染 (Indirect test) {Inf}
+鼻有焦痂, 眼瞼外翻且浮腫以及鼻竇被侵犯 $ Mucormycosis {Inf}
+肺部consolidation、產生cavity, CNS 感染、血管炎, 腦膜炎 $ Cryptococcosis {Inf}
+Abdominal pain, Abdominal distension, Fever、Nausea/Vomiting $ 腹膜炎 {Inf}
+發炎、感染, X-ray：腹水,pleural effusion, Ultrasound / CT scan：直接看到腹水的存在 $ 腹膜炎 (確診) {Inf}
+腸子不動/Ileus, 發燒、白血球上升、休克, 黏液便 $ C. difficile Infection (CDI) {Inf}
+liver abcess, Leukocytosis > 15e+9, Aspirated pus shows no microorganisms, 無 Jaundice, 無 Abnormal chest finding in physical examination, 20-40 years, Previously healthy $ Amoebic liver abcess (阿米巴&PLA 的鑑別) {Inf}
+Fever/chills, Anorexia/weight loss, Malaise/weakness $ liver abscess {Inf}
+發燒、黃疸、RUQ壓痛 $ liver abscess {Inf}
+發燒、乾咳、呼吸困難、倦怠、味嗅覺喪失、拉肚子, Lymphopenia, 胸部 X 光出現 bilateral ground glass opacity（GGO） $ COVID-19 {Inf}
+Fever, cough, fatigue, shortness of breath, vomiting, loss of taste or smell $ COVID-19 {Inf}
+纖維母細胞膨大 $ 巨細胞病毒 (Presumptive diagnosis) {Inf}
+Hand-Foot-and-Mouth Disease, 有嚴重神經學症狀、合併無菌性腦膜炎 $ 腸病毒 71 型 {Inf}
+高燒、全身倦怠、肌肉酸痛、頭痛、呼吸道症狀等，症狀發作突然(潛伏期短) $ 流感 {Inf}
+流感樣肺炎, 重症 $ H7N9 新流感 (vs 季節性流感 (H1, H3), H5N1 禽流感) {Inf}
+突發性的高燒(≧38°C)、頭痛、後眼窩痛、肌肉痛、關節痛及出疹 $ 登革熱 {Inf}
+顏面及四肢末端, 水泡分布整齊規律, 先水泡 → 再膿泡 $ 天花 (天花和水痘的比較) {Inf}
+上背痛, 高燒, 噁心嘔吐 $ Acute pyelonephritis (左腎離胃腸近) {Inf}
+女性，並且有 past UTI history, sexual intercourse, diaphragm use, Parity, DM, loss estrogen, abnormal GU tract (incomplete emptying), 無症狀女性：兩次相隔 24 小時培養的 colony count of 105 /ml $ Cystitis (確診) {Inf}
+女性18~40 yrs, Flank pain、發燒、噁心嘔吐, CV angle 出現 knocking tenderness $ Acute Pyelonephritis {Inf}
+排尿困難、尿液有異常分泌物, 頻尿、血尿 $ Urethritis {Inf}
+致病菌 Neisseria gonorrhoeae, 生長時間 短(2 ~ 6 天), Onset 急性, 症狀明顯, 膿樣分泌物, 尿液鏡檢下可見紫色雙核 $ Gonococcal urethritis, GU (淋病感染 v.s. 非淋病感染) {Inf}
+無 出現鼠蹊部淋巴結腫大或變硬, 尿液檢查：Gram stain 紫色雙核,細菌培養Thayer-Martin 養出 N. gonorrhoeae $ Urethritis {Inf}
+下腹腫脹、悶痛感(在直腸處), 發燒, 排尿不順排便不順 $ Acute Prostatitis {Inf}
+一位 20 歲運動員參加馬拉松比賽約 2 小時後因昏倒與痙攣被救護車送醫治療。抵達醫院時，意識呈昏迷，心跳每分鐘 120 次，血壓 98/52 mmHg，體溫攝氏 40.8 度。驗血發現：aspartate aminotransferase (AST)110 U/L、alanine aminotransferase(ALT)123 U/L、creatinine 2.2 mg/dL、鈉 143 mmol/L、鉀 4.7 mmol/L、鈣 2.4 mmol/L、葡萄糖 75 mg/dL。病人過去健康情況良好，比賽前無不適症狀。比賽當日氣溫為攝氏 37 度。 $ heat stroke {Inf}
+Neutrophil-Lymphocyte ratio(NLR): 數值高 $ 一般細菌感染(非結核菌) {Inf}
+有一位 22 歲女性因發燒及頭痛一週就醫，最近兩天全身有淡淡紅疹。病患自訴兩週前曾至蘭嶼旅遊三天。理學檢查在popliteal area有一黑色結痂病灶，無觸痛。血液檢驗：白血球 9,800/mm3 （Band 16％，Seg 35％，Mono9％，Lymph 40％），血紅素 13.2 g/dL，血小板 195,000/mm3； GOT/GPT：154/180 IU/L；胸部 X 光、腹部超音波肝脾、尿液檢驗，皆無異常。 $ scrub typhus {Inf}
+突然間看到病患發冷、寒顫等 shaking chills 等 $ 感染 {Inf}
+聲音沙啞 $ Laryngitis {Inf}
+初期疲倦、畏寒、打噴嚏、頭痛, 接著出現流鼻水、咳嗽、喉嚨痛, 在 2~4 天到達高峰，在 7~10 天痊癒 $ Common cold {Inf}
+感冒, 口咽外觀 較不腫脹 $ 病毒感染 (最重要的是要鑑別細菌所引起的感冒，尤其是 Group A Streptococci) {Inf}
+堵住呼吸道開口, 1-6 歲, 冬天 $ Acute Epiglottitis {Inf}
+初期：流鼻水、輕微咳嗽、輕微發燒, 24-48 小時後，開始出現 barking cough、聲音沙啞、stridor, 使用呼吸輔助肌 $ Acute laryngotracheobronchitis {Inf}
+打噴嚏、流鼻水、臉部壓脹感、發燒、可引流出膿液、頭痛 $ Acute sinusitis {Inf}
+Pneumonia, 革蘭氏陽性菌, 偏球狀、多顆聚集在一起 $ Streptococcus pneumoniae {Inf}
+一開始以全身症狀為主（發燒、頭痛、肌肉痠痛、不適），2-3 天退燒後，呼吸道症狀逐漸明顯 $ Influenza {Inf}
+發燒, 疲倦, 乾咳 $ Covid-19 或 Influenza {Inf}
+Dry cough, Fever, Loss of smell/ taste $ COVID-19 (Symptoms of COVID-19, cold, influenza) {Inf}
+一位 70 歲女性病人，因發燒、頭痛超過兩週而至急診，有明顯的頸部僵硬。腦脊髓液檢查：腦壓 230 mmH2O、白血球數 316/µl，淋巴球佔其中的 90%。Protein 180 mg/dL，glucose 26 mg/dL（血糖 83 mg/dL ) $ TB meningitis (subacute) {Inf}
+CSF 檢驗 WBC>2000 顆/mm3,CSF lactate：升高,壓力上升、顏色混濁、WBC 浸潤以 neutrophil 為主 $ Bacteria Meningitis {Inf}
+培養後染 acid-fast stain、PCR $ 結核菌 (確診) {Inf}
+幻覺、ataxia、癲癇 $ encephalitis {Inf}
+腰椎穿刺抽 CSF 送檢：lymphocyte pleocytosis, MRI：腦實質病變、增亮, EEG：有 seizure 產生 $ encephalitis {Inf}
+75 歲男性病人因持續發燒二週至急診，心臟聽診發現二尖瓣有 2 度收縮期心雜音，血液培養(分兩瓶：嗜氧+厭氧)長出 Streptococcus viridans 兩套。 $ IE {Inf}
+2 套 血液培養陽性(分開>12hr 抽) S. viridans, 心臟超音波 Vegetation,Abscess,new valvular regurgitation $ IE (確診)(Modified duke criteria) {Inf}
+持續菌血症, 瓣膜、瓣膜周圍感染, septic embolism $ IE {Inf}
+TTE (+) $ IE (確診) {Inf}
+數天~數週, 局部紅斑、水腫、熱、痛 $ Acute osteomyelitis {Inf}
+ESR和 CRP 升高, 血中的 Calcium、Phosphate、Alkaline phosphatase(ALK-P)濃度皆是正常的, bone edema $ 骨髓炎 {Inf}
+38.3 ~ 38.9°C, 發炎、腫脹、中度到重度疼痛、積液、肌肉麻痺, decreased passive & active ROM $ Non-gonococcal bacterial arthritis {Inf}
+fever、chills、rash, ceftriaxone (7 days) 治療 12 到 24 小時後症狀明顯好轉 $ DGI (DGI=擴散淋病菌感染) (確診) {Inf}
+年輕人，性行為感染, 多關節、遊走性, 不易培養, 對抗生素反應好，一兩天 $ Gonococcal arthritis (淋病關節炎與非淋病關節炎比較) {Inf}
+一位病人出現了腳劇痛的症狀，接著出現寒顫、噁心，精神狀況變差。第二天腳開始紅腫、病灶處出現水泡，發高燒，最後過世 $ SSTI(skin & soft tissue infection) {Inf}
+小水泡：快速化膿並破裂。, 膿乾燥後會形成金黃色”stuck on”痂皮，具有以下特色, 會癢但是不會痛, 病灶侷限於表皮，不會潰瘍或是侵犯到真皮。 $ Impetigo {Inf}
+位於皮膚淺層，邊界明顯，病程進展快速，劇烈疼痛、leukocytosis、fever , 發生在下肢, 併發streptococcal bacteremia $ 丹毒 {Inf}
+擴散快速的皮膚感染，侵犯到達皮下組織, 淋巴回流不好，腫脹明顯，會復發, 邊界不明顯 $ 蜂窩組織炎 {Inf}
+位於皮下組織更深層，血管通透性受到影響, 發燒、疼痛，但後期疼痛降低, 腫脹，帶有brawny edema及 tenderness →產生 compartment syndrome $ 壞死性筋膜炎 {Inf}
+Creatinine phosphokinase 上升, Blood cultures （+）, Rapidly progressing lesions $ 壞死性筋膜炎 {Inf}
+患者在兩到三天內會出現發燒、劇烈疼痛、肌肉 boardlike swelling, Compartment syndrome 伴隨發生, 死亡 $ Myositis {Inf}
+Bilateral nature, slow onset of symptoms, hyperpigmentation, superficial desquamation $ Stasis dermatitis {Inf}
+tachycardia、tachypnea、altered mental status、significant edema、positive fluid balance、hypothermia $ CARS(Counter-inflammatory response syndrome) {Inf}
+clotting times 延⻑, ⾎⼩板下降, D-dimer 增加 $ Coagulopathy與Disseminated Intravascular Coagulation {Inf}
+galactomannan and β-D-glucan $ Aspergillus {Inf}
+gut 黏膜表⾯壞死 $ Neutropenic enterocolitis {Inf}
+容易感染、敗⾎ $ 嗜中性球低下 {Inf}
+JC virus $ HIV {Inf}
+Fever, abdominal pain, diarrhoea/vomiting, low blood pressure, shock, pink eye, "strawberry tongue", rashes, large lymph nodes, swollen hands/feet, neurological disturbances $ Multisystem inflammatory syndrome in children (MIS-C) {Inf}
+fatigue and memory problems $ Long COVID {Inf}
+Non-oliguria > 500mL/day, Granular casts in urine $ Aminoglycoside nephropathy {Nephro}
+用 enal venography, doppler 才意外發現腎靜脈血流異常減少 $ Renal vein thrombosis (通常無症狀，腎功能也正常，難以診斷) {Nephro}
+AKI, 腹痛和消化道出血, Cerebrovascular involvement $ Atheroembolic renal disease (cholesterol embolization syndrome(CES)) {Nephro}
+大腦症狀、心衰竭、facial palsy, 用 2 種以上高血壓藥之後仍難控制高血壓, 血管炎的 sign $ Renovascular Hypertension {Nephro}
+Captopril renography, 服用 ACEI 後，GFR 下降，左腎影像變淡 $ 腎動脈狹窄 {Nephro}
+Renal failure, Liver cysts, adult onset $ Autosomal dominant polycystic kidney disease (ADPKD) {Nephro}
+腎臟超音波 Age 15-29 yr, ≥3 cycsts $ Autosomal dominant polycystic kidney disease (ADPKD) (確診) {Nephro}
+pitting edema、腹水, 頸靜脈鼓脹, 皮膚彈性正常 $ 水分過多 {Nephro}
+高倍鏡底下看到紅血球>2 顆 $ 血尿，其中一段泌尿系統的出現損傷 {Nephro}
+27 歲男性因水腫至門診求診。兩天前有發燒、咳嗽，至藥局買藥，退燒後卻出現小便顏色變深，排尿時無灼熱感。驗尿發現每個高倍鏡下有 50~70 個紅血球，3~5 個白血球，無表皮細胞。理學檢查：體溫 37.5oC，血壓 135/90 mmHg，兩側腰部有輕微呀痛，足踝稍有水腫。 $ 急性腎絲球腎炎 (診斷) {Nephro}
+Fractional excretion of sodium <1 %, Urine sodium conc. <10 mmol/L $ Prerenal (鑑別 Pre‐renal AKI 與 Renal AKI) {Nephro}
+每公升尿液鈉離子含量小於 20 meq $ 腎前因素造成腎衰竭 {Nephro}
+𝐔𝐀𝐂𝐑/𝐔𝐏𝐂𝐑=60~80% $ Glomerular proteinuria {Nephro}
+Edema, Hypoalbuminemia, Hyperlipidemia $ External complications {Nephro}
+Furosemide Stress test （FST）：兩個小時內尿量沒有增加>200ml $ AKI (確診) {Nephro}
+Podocyte 有 foot process effacement $ Minimal Change Disease(MCD) {Nephro}
+mesangial hypercellularity 與 mesangial dense deposits $ IgA Nephropathy {Nephro}
+subepithelial hump $ Acute Post-Streptococcal Glomerulonephritis (PSGN) {Nephro}
+感冒 2～3 周 C3 還不回復 $ Membranoproliferative Glomerulonephritis {Nephro}
+病人鼻子塌陷、又一直咳嗽，可以看到肺部有許多結節，是 Wegener granulomatosis $ AAV {Nephro}
+把整個腎臟的網子勾勒出來啦 $ Anti-Glomerular Basement Membrane Disease {Nephro}
+做 biopsy看到 K-W nodule $ DKD (確診) {Nephro}
+Periorbital edema, Pedal edema, Weight gain $ Nephrotic syndrome (看到可以先懷疑) {Nephro}
+Gradual Onset of proteinuria, Gradual Progression of CKD, Duration of diabetes >10 yr, Urinalysis Bland sediment, Retinopathy $ DKD (臨床上如何鑑別一個 GN 的病人是不是 DM 造成的 DKD（Diabetic kidney disease）) {Nephro}
+Predominant light chain involved: κ, Light microscopic features: Nodular sclerosis with strong periodic acid-Schiff staining, Congo red staining: Negative, Immunofluiorescence pattern: Diffuse linear staining $ Monoclonal Ig Deposition Disease (辨別是 Monoclonal Ig deposition 還是 Amyloidosis) {Nephro}
+Organized glomerular electron-dense deposits, Congo Red stain: +, Immunofluorescence for Ig LC & AA: LC + $ AL amyloid (8-15 nm fibrils) (Glomerular deposits disease 的鑑別診段流程) {Nephro}
+血尿、發燒、Red cell casts、蛋白尿、高血壓、急性腎衰竭 $ Class IV：Diffuse nephritis {Nephro}
+病理切片，大血管出現 Onion skinning $ Hypertension-attributed nephropathy {Nephro}
+Shortness of breath, SOB, Kussmaul’s respiration $ 酸血症 {Nephro}
+pH ↓, HCO3- ↓, PaCO2 ↓ $ Metabolic acidosis (酸鹼代償) {Nephro}
+PaCO2 = (1.5*[HCO3-] + 8) ±2 $ 代謝性酸中毒 (Winter’s formula) {Nephro}
+Serum lactate > 4 mmol / L ( 36mg/dl ) $ Lactic acidosis (確診) {Nephro}
+METABOLIC ACIDOSIS, Did severe acidemia develop over a short period of time? No, High Serum AG? No, UAG > 0 $ RTA (代謝性酸中毒流程圖) High Serum AG == new anions in plasma, UAG < 0 == the rate of NH4+ excretion is high {Nephro}
+METABOLIC ACIDOSIS, Did severe acidemia develop over a short period of time? Yes, 無 Ethanol intoxication plus thiamine deficiency, 無 Ingestion of an acid $ Hypoxic lactic acidosis (代謝性酸中毒流程圖) {Nephro}
+METABOLIC ACIDOSIS, Did severe acidemia develop over a short period of time? No, High Serum AG? Yes, Is the EABV very low? No, Serum Cr ↑ $ Renal insufficiency (代謝性酸中毒流程圖) High Serum AG == new anions in plasma, Serum Cr == the GFR is very low {Nephro}
+代謝性鹼中毒, urine Cl- 小於 20 mEq/L $ chloride-responsive alkaloses {Nephro}
+先是 high anion gap metabolic acidosis, 代謝鹼, 呼吸鹼 $ salicylate {Nephro}
+A 31 years old man without systemic diseases presented to ER with one week of nausea and one day of vomiting with food material。BP 158/96 mmHg, HR 111/min, RR 24/min, BT 35.1℃. Blood gas analysis revealed: pH 7.123, PCO2 21 mmHg, HCO3- 6.7 mEq/L. Blood tests: Glu 668 mg/dL, Na 118 mEq/L, K 5.3 mEq/L, Creatinine 1.56 mg/dL. $ Primary metabolic acidosis, Normal compensation {Nephro}
+GFR>=60 mL/min, Hyperchloremic/Normal anion gap (AG) metabolic acidosis, Net acid excretion (NAE)下降 $ RTA (renal tubular acidosis) {Nephro}
+GFR >=60 mL/min, Normal anion gap, Hyperchloremia, Urine anion gap (+), hypokalemia $ RTA (RTA 與 Uremic acidosis 的比較) {Nephro}
+Serum osmolarity gap (serumOG) ↑ $ Presence of alcohol {Nephro}
+Initial phase： UHCO3-↑,UNa+↑, Steady Phase Plasma HCO3-12-18 mEq/L $ Proximal (Type 2) RTA {Nephro}
+Growth retardation, 骨骼疾病, 腎結石 $ Distal (Type 1) RTA {Nephro}
+NAGMA, 高血鉀, Serum HCO3- ≥ 17 mEq/L $ Type 4 RTA (Hyporenin, Hypoaldo) {Nephro}
+Plasma K N., Urine pH > 5.5, Net acid excretion N., FEHCO3- >15%, U-B PCO2 >25, UPCO2 >70, Flurosemide loading test N., Urinary calcium N., Urinary citrate hyper, 無 Nephrocalcinosis, Metabolic bone disease, Presence of other tubular defects, Alkali supp 10~30 mEq/kg/day $ Proximal (Type 2) RTA (Initial phase) (vs Distal (Type 1) RTA, Type 4 RTA){Nephro}
+Hyperchloremic Metabolic Acidosis, UAG(-) UOG↑, U_Cl < (U_Na + U_K) $ Overproduction of an acid with a high rate of  excretion of its anion with NH4+ in the urine (如何 approach 一個 RTA 的病人?) UAG(-) UOG↑ == estimated rate of NH4+ excretion > 50 mmol/d, U_Cl > (U_Na + U_K) == NH4+ is excreted with Cl- {Nephro}
+Flank pain, Acute renal failure, infiltration 和 edema $ Acute TIN (急性期) {Nephro}
+急性腎衰竭, Pyuria, Eosinophil infiltration $ Drug induced AIN {Nephro}
+anti-Ro、anti-La, ANA、rheumatic factor, Polyclonal hypergammaglobulinemia $ Sjogren‘s syndrome {Nephro}
+病人年紀大有貧血、bone pain、高血鈣 $ MM {Nephro}
+病人年紀大有貧血、bone pain、高血鈣, 尿中有 filtered monoclonal immunoglobulin light chains, 尿液、血液免疫固定電泳可見 monoclonal band $ Light chain cast nephropathy(LCCN) (Myeloma kidney) {Nephro}
+腎盂、腎盞擴大, 發炎細胞浸潤 & tubular dilation, Ureter 脹到變形 $ Vesicoureteral reflux，又稱 reflux nephropathy {Nephro}
+濃縮尿液功能變差, 腎臟血液灌流、 GFR 皆降低, nephrolithiasis $ Hypercalcemic Nephropathy {Nephro}
+低⾎鈉, Plasma osmolality >295, 無 Mannitol, 無 Glycerol $ Hyperclycemia (低⾎鈉的診斷流程) {Nephro}
+(1) Uosm>100 (2)4 ⼩時內<80% $ SIADH (SIADH 的鑑別診斷, vs Reset Osmostat, Primary polydipsia, Salt losing nephritis) (Water loading test)
+Hypoosmotic (<275mOsm/kg) hyponatremia with euvolemia, 尿液滲透壓>100 mosm/kg、尿液鈉濃度 > 40 meq/L, 腎臟、甲狀腺、腎上腺功能正常 $ SIADH(Syndrome of inappropriate antidiuretic hormone secretion) {Nephro}
+頭痛、緊張、嘔吐、頭暈、肌⾁扭轉、抽搐、⿇⽊ $ 急性低⾎鈉：<48hr {Nephro}
+Hypernatremia, Euvolemia, U_osm<700 $ Central DI, Nephrogenic DI (鑑別診斷流程) Euvolemia == Pure water loss, U_osm<700 == Renal loss {Nephro}
+Urine volume > 3L /day, Measure urine osmolality, <150 mosm/Kg, Uosm/Posm <0.9, Cosm/CCr < 3%, Dehydration test, Uosm/Posm < 1, DDVAP 1 μg SC, ΔUosm <10% $ CNDI (Approach to Polyuria) {Nephro}
+Euvolemia, Urine Na >40meq/L, Hypoosmotic hyponatremia, Urine Osm>100mOsm/kg, Normal adrenal, thyroid and renal function $ SIADH (確診) {Nephro}
+脫⽔後測 1st Uosm <300, DDAVP 後測 2nd Uosm 增加>50%, Plasma AVP level <1.0 $ Complete CDI (DI 的鑑別診斷) {Nephro}
+serum [Na+]<130 mEq/L, Serum osmolarity <280 mOsm/kg, Urine osmolarity >100 mOsm/kg, ECF 下降(乾), UNa >20 mEq/L $ *代表鈉從腎流失 (低⾎鈉的診斷) {Nephro}
+serum [Na+]>150 mEq/L, Hypovolemia, ⾼⾎鈉，尿鈉<20，尿滲透壓>700 $ 腎外流失低張容液體積反⽽刺激腎臟代償，加強鈉再吸收 (⾼⾎鈉診斷流程) {Nephro}
+Hypokalemia, 無 cell shifts, Urinary K+ excretion <15 mmol/day, Metabolic acidosis $ Lower GI loss (低⾎鉀的 approach)(Harrison 法) {Nephro}
+Hypokalemia, 無 cell shifts, Hypertension, Plasma renin activity Normal $ Cushing's syndrome (低⾎鉀的另⼀種 approach)(NKF 法) {Nephro}
+低⾎鉀, 腎素⾼、醛固酮⾼, ⾎液中 Hyperprostaglandin $ Bartter syndrome {Nephro}
+Saline suppression test：PA>10ng/dL, Aldosterone to renin ratio, ARR = PAC (ng/dL)/ PRA(ng/ml/hr) >30 $ Primary Hyperaldosteronism ：即 Conn's syndrome (確診) {Nephro}
+Hyperkalemia, Exclude pseudohyperkalemia, Exclude transcellular K+ shift, Exclude oliguric renal failure, Stop NSADs and ACE inhibitors, TTKG < 5, Response to 9a-fludrocortisone TTKG ≧ 10 $ hypoaldosteronism (⾼⾎鉀評估) {Nephro}
+ventricular fibrillation, Flaccid paralysis, Decreased ammonia production $ ⾼⾎鉀 {Nephro}
+Hypokalemia, muscular weakness, muscle pain, and muscle cramps (from disturbed function of the skeletal muscles), and muscle spasms (from disturbed function of smooth muscles), hypocalcemia, tetany $ Metabolic alkalosis (低⾎鉀的 approach) Consider cell shifts {Nephro}
+Hyperkalemia, clinically well without any ECG changes $ Pseudohyperkalemia (如何評估⾼⾎鉀？) {Nephro}
+一位 58 歲尿毒症患者因續發性副甲狀腺亢進接受副甲狀腺切除手術，術後突發手部tetany，身體檢查發現 Chvostek’s sign $ 低血鈣 {Nephro}
+Osteoblast/osteoclast 活性與數量快速增加, 骨質中出現high peritrabecular fibrosis, hyperparathyroidism $ High-turnover bone disease {Nephro}
+Terminal Dribbling $ 攝護腺肥大 (早期) {Uro}
+frequency、urgency, 排尿會痛、有灼熱感, 發燒 $ Urinary Tract Infection, UTI {Uro}
+Nitrite, 高倍鏡下超過 5 個WBC, 尿液菌落培養>1e+5CFU/ml $ UTI (確診)(尿液培養 == Gold standard) (革蘭氏陰性菌) {Uro}
+Papillary necrosis, Pneumaturia, 致病菌：E.coli $ Emphysematous pyelonephritis {Uro}
+女性, 免疫力不好者, urgency & frequency $ Malacoplakia {Uro}
+Genitalia產生painful ulcer, 會痛的雙側inguinal adenopathy $ Herpes Simplex {Uro}
+髮線沒有後退，在額頭上有細毛, 鬍鬚等毛髮生長較慢, 肩膀較窄 $ hypogonadism {Uro}
+Male infertility, Sperm+, gonadotoxin $ Varicocele (診斷流程) {Uro}
+男性不孕症, Azoospermia, 抽血看激素、外觀, 三個皆低 $ Hypogonadism (診斷流程) {Uro}
+Prehn’s sign positive $ 副睪炎 {Uro}
+睪丸產生腫脹、疼痛, Prehn′s sign (-), cremasteric reflex消失 $ Testicular torsion {Uro}
+a bag of worms, 躺下之後會消腫 $ varicocele {Uro}
+病人出現中央型肥胖、月亮臉、水牛肩→ Order 24 小時尿液 cortisol 檢查→確定是 Cortisol 過度分泌→詢問病史：是否有習慣性服用成藥？：, 是 $ 醫源性類固醇 (Cushing syndrome 診斷邏輯) {Uro}
+病人出現難控制的高血壓，且有periodic paralysis $ Conn syndrome（Aldosterone 太高） {Uro}
+去做體檢，意外發現腎臟有個 cyst：, Bosniak III/IV $ 裡面很可能躲惡性腫瘤 {Uro}
+CT：central stellate scar, 血管攝影：Spoke-wheel pattern $ Oncocytoma, RCC {Uro}
+Mental retardation, Epilepsy, Adenoma sebaceum, skin lesions, 體染色體顯性 $ Angiomyolipoma (AML) {Uro}
+flank pain, mass, hematuria $ Renal cell carcinoma（RCC） (Classic triad*) {Uro}
+Wilms tumor, Aniridia, GU abnormalities, Mental Retard $ Nephroblastoma ( 又稱 Wilms Tumor ) (WAGR Syndrome) {Uro}
+無痛的睪丸腫塊, 摸得到的testicular masses → 陰囊超音波, 後來初步判斷是 epididymo-orchitis，給了抗生素治療後，在 2-4 週內重新評估 $ Germ Cell Tumors ( GCT ) （老師說很多泌尿科醫師因為誤診這個疾病而吃上官司，怕爆><） {Uro}
+70 歲男性, 主訴 儲尿症狀:排尿急迫、頻尿+夜尿三次, 治療 使用 Tolterodine ，預期效果可改善頻尿、急尿, 結果 病人反而覺得更頻尿、急尿且排尿困難，最後尿滯留要放導尿管 $ 良性攝護腺肥大(BPH) {Uro}
+Nocturia, Global Polyuria (>40ml/Kg/D) $ 喝太多水 (用排尿記錄簿來鑑別診斷) {Uro}
+febrile urinary tract infection, prenatal hydronephrosis $ 小兒泌尿疾病 (膀胱輸尿管逆流、雙套集尿系統異常和上泌尿道阻塞) {Uro}
+新生兒 APD >15mm $ Pelvic dilatation {Uro}
+Hooded foreskin, Ventral curvature $ Hypospadia {Uro}
+International index of erectile function IIEF 小於等於 21 分 $ 中度到嚴重的勃起障礙 (診斷) {Uro}
+Intravaginal Ejaculatory Latency Time(IELT)： <1 min $ Lifelong PE (hypersensitivity of 5-HT_1A receptor and/or hyposensitivity of 5-HT_2C receptor) (ISSM 2013) {Uro}
+Digital rectal examination(DRE), Prostate specific antigen (PSA), PCA3 marker $ Prostate cancer {Uro}
+intermittent 的血尿, Irritative voiding $ 尿路上皮癌/膀胱癌 {Uro}
+女性, bladder pain, urinary frequency $ Interstitial Cystitis(IC) {Uro}
+VLPP(Valsalva Leak Point Pressure) <60 $ TypeIII，ISD 機轉比較明顯 {Uro}
+血尿, 腰部疼痛, 腰部大部瘀青 $ 腎臟創傷 {Uro}
+開完刀出現下列症狀：, Sepsis, Ileus, Frank mass, Urinary fistula to skin $ 輸尿管創傷 {Uro}
+排尿困難, 血尿, Suprapubic swelling $ Extraperitoneal rupture {Uro}
+解尿困難, 血尿, 會陰血腫 $ 尿道創傷 (prostatic urethra、membranous urethra) {Uro}
+A 24-year-old man had a CT scan 36 hours afer a motor vehicle accident., There is complete absence of enhancement of the entire right kidney $ Grade V Renal trauma {Uro}
+Neutropenia, Anemia, Infection, Blasts $ Acute leukemia {Hema}
+小便顏色較深, Acholuric, 血漿中游離的血紅素增加 $ 溶血性貧血 {Hema}
+pancytopenia, LDH 高、indirect hyperbilirubinemia, beefy tongue $ megaloblastic anemia {Hema}
+25 歲男子，已經全身不舒服兩個禮拜, WBC 50,000 /μl, Hb 7.5 g/dl, Pl 18 x 1000, DC(%):, Blast 85, Seg 6, Monocyte 2, Lymphocyte 7 $ ALL/AML {Hema}
+發燒, CNS involvement, Hepatosplenomegaly $ acute leukemia (ALL) {Hema}
+骨髓和血液中 blasts 的比例 <20%, t(8;21) $ AML (診斷流程總覽) {Hema}
+陳女士 61 歲 最近走路很喘, CBC WBC：354700/μl, 紅血球數據 RBC：3590000/μl,HGB：8.4 g/dL,HCT：24%,MCV：66.9 fL,MCH：23.4 pg, PLT 1170000/μl, DC 呈 left shift, 理學檢查 脾臟腫大(10 fb below Left costal margin), LAP score Decrease, BM hypercellularity, myeloid hyperplasia, blasts<5%, 分子生物 Ph’ chromosome (+) bcr-abl P210(+) $ Chronic Myeloid Leukemia (CML) (確診) {Hema}
+CC : vertigo, gait disturbance & facial flushing, HB 20.3 gm/dl, Hct 64.7%, WBC 31,300, RBC 7.03 M /μL, MCV 84fL, Platelet 657,000 /μL, ABG PH : 7.432, PCO2 : 35.6, PO2 : 77.5, O2 Sat : 95.6%, RBC volume 3264.4 ml (predict : 1899 ml), EPO 5.23 mU / ml (8.2 ~ 21.4 mU/ml) $ Polycythemia vera (PV) {Hema}
+Platelet count ≥450e+9/L, Bone marrow biopsy showing proliferation mainly of the megakaryocyte lineage with increased numbers of enlarged, mature megakaryocytes with hyperlobulated nuclei. No significant increase or left shift in neutrophil granulopoieses or erythropoiesis and very rarely minor (grade 1) increase in reticulin fibers., Not meeting WHO criteria for BCR-ABL1+ CML, PV, PMF, myelodysplastic syndromes, or other myeloid neoplasms, Presence of JAK2 mutation $ ET (確診)(WHO diagnostic criteria essential thrombocythemia 2016) {Hema}
+Fatigue, Night sweats, Early Satiety, 無淋巴結腫大 $ MPN {Hema}
+microcytic $ Iron deficiency anemia {Hema}
+Severe hypocellularity, Marrow injury cells為主要觀察到的細胞，少有造血細胞, Peripheral blood 中，Pancytopenia $ Aplastic Anemia {Hema}
+≥ 20% blasts in PB, Maturation arrest, Anemia/thrombocytopenia $ AML {Hema}
+Serum ferritin下降, Transferrin saturation 下降(<16%), Hemoglobin 下降 $ Iron deficiency {Hema}
+Peripheral neuropathy, Dysproprioception, indirect jaundice $ 大球性貧血 {Hema}
+SI <30, TIBC >360, Ferritin <15 μg/L $ Iron Deficiency (鑑別診斷)(vs Inflammation) {Hema}
+BM cellularity <25% $ AA (Aplastic anemia) (確診) {Hema}
+Intravascular hemolysis, BM aplasia, Thrombosis $ Paroxysmal Nocturnal Hematuria(PNH) {Hema}
+淋巴結腫大, 侵犯骨髓, 無 tuberculosis $ Lymphoma {Hema}
+20-30 歲, 中軸的淋巴結, 依序的擴散, 無淋巴結外侵犯 $ Hodgkin Disease(HD) (Hodgkin’lymphoma vs. Non-hodgkin lymphoma) {Hema}
+全身性淋巴結腫大, 嗜酸性球浸潤、發燒、體重減輕 $ Peripheral T-cell Lymphoma, NOS {Hema}
+B symptoms, itch、lumps, Lymphadenopathy $ Lymphoma {Hema}
+CD20+ $ B cell lymphoma {Hema}
+發燒、喘、抽血檢查發現白血球過高、貧血 $ 血癌 {Hema}
+Vascular Thrombosis, Complications of Pregnancy, Anti-cardiolipin IgG Antibodies $ APS {Hema}
+無 Petechiae, Minimal Bleeding from superficial cut, large Superficial ecchymosis, Deep tissue hematomas, Hemarthrosis, Delayed bleeding $ Coagulation disorder (vs Purpuric disorder) {Hema}
+Ecchymosis, Deep tissue hematoma, Hemarthrosis $ Coagulation disorder {Hema}
+遇到病人血小板很低下合併出血徵象，排除 -MDS(Myelodysplastic Syndromes), -Splenomegaly with hypersplenism, -DIC(Disseminated Intravascular), -Sepsis, Pseudothrombocytopenia $ Immune Thrombocytopenic Purpura ；Immune Thrombocytopenia (確診) {Hema}
+一位看起來就是 purpuric disorder的病人，而 Platelet Function Closure Time 異常，但其 PLT count 卻正常。病人有家族病史 $ Hereditary Qualitative Platelet Disorders {Hema}
+Bleeding tendency since toddler, 長大之後發現 Coagulation disorder, Hepatitis C $ Hemophilia (因為早期需要輸血補充凝血因子，結果造成感染) {Hema}
+prolonged aPTT, prolonged bleeding time, 出血傾向 mild $ Von Willebrand Disease {Hema}
+嚴重感染, Platelet count < 50, Elevated fibrin related marker strong increase $ DIC (確診) (Scoring system for overt DIC) {Hema}
+65 歲男性因 bone pain 來就醫，檢驗發現 Hb 9.0 gm/dL，紅血球成串錢反應，血清電泳在 gamma 區有一 spike，X 光發現多處骨頭有 punched out lytic lesions，骨髓抹片發現大量的 plasma cells $ Multiple myeloma {Hema}
+60% Plasmacytosis, Light chains I/U>100, MRI>1 focal lesion, calcium elevation, renal insufficiency, anemia, bone disease $ Multiple myeloma (確診) {Hema}
+在周邊血液看到不正常的 monoclonal B cell 聚集, B cell 呈現 CD5 (+)、CD23(+), B cell 異常至少三個月 $ Chronic Lymphocytic Leukemia(CLL) {Hema}
+Lymphadenopathy, DOE(dyspnea on exertion), 反覆感染 $ Chronic Lymphocytic Leukemia(CLL) {Hema}
+疼痛, 呼吸困難、發燒發冷，低血壓、dark urine、出血, DIC, intravascular hemolysis $ acute hemolytic transfusion reaction {Hema}
+LDH ↑ , T.bil ↑ , reticulocyte ↑ , haptoglobin ↑, direct Coomb's test : 病人的紅血球上有抗體 $ acute hemolytic transfusion reaction (確診) {Hema}
+輸血後沒過多久高燒（>39°C）, rigors, 收縮壓下降>30mmHg $ Bacterial Sepsis {Hema}
+剩餘血品、接受輸血者的血培養出同一種菌 $ bacterial sepsis (確診) {Hema}
+unexplained anemia, hyperbilirubinemia, mild fever $ Delayed hemolytic transfusion reaction, DHTR {Hema}
+新發生的 Direct antiglobulin （Coombs'） test陽性, 新發生的 Antibody screen陽性, 輸血後 10 天後 $ Delayed hemolytic transfusion reaction, DHTR (確診) {Hema}
+疲勞、疼痛、食慾不振/厭食、體重減輕、不明發燒 $ 癌症 {Onco}
+結腸炎, hypophysitis、甲狀腺低下、腎上腺低下, 肝炎 $ Checkpoint inhibitor 的副作用：iRAE (immune related adverse events) {Onco}
+45 歲男性, 主訴：abdominal fullness持續一個月, 腹部電腦斷層影像結果：multiple liver tumor, metastasis or multiple primary HCC, CEA：754, AFP：3.42 $ sigmoid colon adenocarcinoma with liver metastasis {Onco}
+5-FU(Fluorouracil)療效差 $ Thymidylate synthase(TS)表現量⾼ {Onco}
+5-FU 的毒性增加 $ DPYD 基因出現「 IVS14+1 G2A 基因多型性」 {Onco}
+減弱 Rituximab 和 Cetuximab 的藥效 $ FcRγ 的 His131Arg {Onco}
+Cetuximab 療效降低 $ K-Ras 基因突變 {Onco}
+喜樹鹼毒性增強 $ UGT1A1*28 變異 {Onco}
+鉑類藥物抗藥性 $ NER 的過量表現 {Onco}
+增加 oxaliplatin 化療神經病變的發⽣率 $ GSTP1 codon 105 的氨基酸從 Isoleucine（Ile）變成 Valine（Val） {Onco}
+降低嗎啡類⽌痛藥之療效 $ μ 嗎啡接受器 A118G 基因多型性 {Onco}
+_$_
+Argyll Robertson pupil (loss of light reflex constriction; accommodation is preserved; classic form bilateral) $ Tertiary (neuro) syphilis
+Blue sclera $ `Osteogenesis imperfecta, types I and II (fatal)`Also may be seen in Ehlers-Danlos syndrome, pseudoxanthoma elasticum, Marfn syndrome`
+Brushfield spots (ring of white spots around periphery of iris) $ Down syndrome (trisomy 21)
+Charcot's triad #1 (nystagmus, intention tremor, scanning speech; triad #2 is for cholangitis: jaundice, fever, rigors, pain) $ Multiple sclerosis
+Cerry-red spot (retinal pallor contrasting with strikingly red macular spot) $ Tay-Sachs, Niemann-Pick, central retinal artery occlusion
+Cotton-wool spots (small areas of yellowish-white discoloration in the retina) $ Chronic hypertension
+Horner syndrome (ptosis, miosis, anhidrosis, and apparent enophthalmos) $ Impaired sympathetic innervation to eye (numerous causes, including vascular, traumatic, congenital, Pancoast tumor, other tumors)
+Intranuclear ophthalmoplegia (INO) (disorder of lateral conjugate gaze; affected eye cannot adduct and nystagmus occurs in the abducting eye; convergence is intact) $ Multiple sclerosis
+Kayser-Fleischer rings (greenish or golden copper deposits in crescent or ring in the Descemet's membrane) $ Wilson disease
+Lens dislocation $ Marfan syndrome (can be accompanied by aortic dissection and joint hyperflexibility)
+Lisch nodules (tan harmartomas on the iris) $ Neurofibromatosis type I
+Roth spots (hemorrhage in retina with a white center) $ Bacterial endocarditis (also seen in leukemia, diabetes, collagen-vascular diseases)
+Adenoma sebaceum (raised, erythematous papules on the face, especially around the nose) $ Tuberous sclerosis
+Anesthesia $ Leprosy (skin may be blotchy, red, or thickened)
+Bullae (tense) $ Bullous pemphigoid
+Bullae (flaccid, rupturing) $ Pemphigus
+Brown-black lesion with fuzzy edge $ Melanoma (depth of lesion most important prognotic indicator)
+Butterfly rash (nose and cheeks) $ Systemic lupus erythematosus
+Café-au-lait spots (light brown spots, often over 1 cm) $ Neurofibromatosis
+Chancre (painless ulcer, usually on genitalia) $ Primary syphilis
+Chancroid (painful ulcer, usually on genitalia) $ Haemophilus ducreyi
+Condylomata lata (smooth, flat, painless genital lesions) $ Secondary syphilis (scrapings may show spirochetes with darkfield microscopy)
+Dermatitis, dementia, diarrhea $ Pellagra caused by niacin deficiency
+Dog or cat bite $ Pasteurella multocida
+Elastic skin $ Ehlers-Danlos syndrome
+Erythema chronicum migrans (expanding red ring with central clearing at tick bite site) $ Lyme disease
+Generalized hyperpigmentation $ Addison disease (primary adrenal insufficiency)
+Kaposi sarcoma (usually slightly raised violaceous papules or plaques) $ AIDS
