@@ -6,7 +6,7 @@
   Facebook連結: https://www.facebook.com/bruce.chen.372
   LINE ID: brucechen0
 最後修改日期: 2022/9/19
-版本: 1.0.0.0
+版本: 1.0.0.1
 發表於: https://brucechen034020.github.io/
 程式碼尺度
   N/A
@@ -63,30 +63,6 @@ function setup(){
   ButtonContinue = createButton('繼續');
   ButtonContinue.mousePressed(button1_Clicked);
   LabelQA = createP('');
-
-  /* Initialize Firebase */
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyBLzfqBsWvrCuQbkpkJwHaVYUFuJE7Jrs8",
-    authDomain: "medicalsituationpuzzle.firebaseapp.com",
-    projectId: "medicalsituationpuzzle",
-    storageBucket: "medicalsituationpuzzle.appspot.com",
-    messagingSenderId: "50037101472",
-    appId: "1:50037101472:web:12ba08b2d1db70f66b4ac5",
-    measurementId: "G-6M5S9TQDSY"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-  database = firebase.database();
 
   /* Initialize timed events */
   setTimeout(sendOnline, 10000);
