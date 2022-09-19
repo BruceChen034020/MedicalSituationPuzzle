@@ -12,4 +12,4 @@
 
 [Repository](https://gitlab.com/BruceChen10601053/medicalsituationpuzzle)
 
-[下載點]()
+[下載點](https://gitlab.com/BruceChen10601053/medicalsituationpuzzle/-/releases/v1.0.0.1)
