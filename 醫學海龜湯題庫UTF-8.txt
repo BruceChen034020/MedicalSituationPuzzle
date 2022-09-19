@@ -615,7 +615,7 @@ butterfly rash, nasolabial fold sparing, 全身性的症狀 $ Acute cutaneous LE
 Antinuclear antibodies (ANA) at a titer of ≥ 1:80 on HEp-2 cells, Non-scarring alopecia, Acute pericarditis, Joint involvement $ SLE (確診) {Integ}
 對稱近端肌肉無力, 肌肉切片有發炎細胞, 血液檢查中骨骼肌酵素濃度上升, 典型的皮肌炎皮膚表現 $ Dermatomyositis (確診) {Integ}
 Heliotropic eyelids, Gottron sign, V sign $ Dermatomyositis {Integ}
-腳疼痛、神經功能異常(感覺、運動等) $ Sciatica {Ortho}
+疼痛 going down the leg from the lower back、神經功能異常(感覺、運動等) $ Sciatica {Ortho}
 局部下背痛, 動作會造成疼痛, 神經理學檢查正常 $ 脊椎的退化性疾病 Dysfunction (退化三期) {Ortho}
 漸漸發展的疼痛，包含下背部、臀部、下肢等, 雙側, 神經性跛⾏ $ 腰椎退化性疾病 {Ortho}
 跛⾏距離 每次不⼀樣, 停⽌動作後緩解 慢, 疼痛緩解⽅法 flexion、坐下, 爬坡 不痛, 騎腳踏⾞ 不痛, 症狀發⽣ 由近端往遠端, 肌⾁無萎縮, 背痛, ⽪膚表現 $ 神經性 (vs 血管性跛行) {Ortho}
@@ -1025,3 +1025,174 @@ Elastic skin $ Ehlers-Danlos syndrome
 Erythema chronicum migrans (expanding red ring with central clearing at tick bite site) $ Lyme disease
 Generalized hyperpigmentation $ Addison disease (primary adrenal insufficiency)
 Kaposi sarcoma (usually slightly raised violaceous papules or plaques) $ AIDS
+Port wine stain (large, purplish lesion on face) $ Hemangioma
+Rash on palms and soles $ Secondary syphilis, Rocky Mountain spotted fever
+Silvery, scaly plaques (knees, elbows, scalp) $ Psoriasis
+Slapped cheeks $ Erythema infectiosum (fifth disease, parvovirus B19)
+Vesicles, small painful $ Herpes, dermatitis herpetiformis
+Arachnodactyly (very long fingers and toes) $ Marfan syndrome
+Babinski sign (stimulation of sole of foot → upgoing great toe) $ Upper motor neuron lesion
+Baker's cyst (cyst in popliteal fossa) $ Rheumatoid arthritis
+Bouchard's node (PIP osteophytes) $ Osteoarthritis
+Boutonniere deformity (finger flexed at PIP and hyperextended at DIP) $ Rheumatoid arthritis
+Calf pseudohypertrophy (replacement of muscle with fat and connective tissue) $ Duchenne muscular dystrophy
+Heberden's nodes (DIP enlargement because of osteophytes) $ Osteoarthritis
+Janeway lesions (hemorrhagic nodules in palms or soles) $ Endocarditis
+Osler's nodes (tender nodules on palms and soles) $ Endocarditis
+Palpable purpura (legs and buttocks) $ Henoch-Schönlein purpura
+Rash affecting palms and soles $ Secondary syphilis, Rocky Mountain spotted fever
+Raynaud syndrome (pale to blue to red on hands or feet) $ Recurrent vasospasm
+Simian crease (single long crease across palm) $ Down syndrome (trisomy 21)
+Splinter hemorrhage (found under fingernails) $ Infective endocarditis, trauma
+Tendon xanthomas (classically Achilles tendon) $ Familial hypercholesterolemia
+Tophi (hard nodules composed of uric acid) $ Gout
+Bamboo spine (rigid spine with fused joints) $ Ankylosing spondylitis
+Boot-shaped heart (upturned ventricular apex and large pulmonary artery make the "boot") $ Right ventricular hypertrophy; tetralogy of Fallot
+Codman's triangle (new subperiosteal bone lifts periosteum) $ Osteosarcoma
+Double-bubble sign (two air-filled structures in upper abdomen, with little or no air distally) $ Duodenal atresia, also duodenal stenosis, duodenal webs, annular pancreas, malrotation of the gut
+"Hair on end" or "crew-out" $ Beta thelassemia, sickle cell anemia (extramedullary hematopoiesis below periosteum leads to formation of bony spicules = "hair" on outside of bone)
+Mammillary body atrophy (memory loss) $ Wernicke encephalopathy
+Periosteal elevation $ Pyogenic osteomyelitis (elevation due to subperiosteal inflammation; this may be the earliest radiologic sign of osteomyelitis)
+"Punched out" (lytic) lesions of bone $ Multiple myeloma
+Rib notching $ Coarctation of aorta (dilated aorta before coarctation puts chronic pressure on ribs)
+Soap bubble (lytic expansile lesion) $ Giant cell tumor of bone
+String sign (small bowel follow-though shows very narrow lumen, typically in terminal ileum) $ Crohn disease
+Soft systolic ejection murmurs $ May be normal in infants, children, pregnancy
+Systolic ejection murmur (right 2nd interspace) $ Aortic stenosis
+Systolic ejection murmur (mid to lower left sternal border) $ Hypertrophic obstructive cardiomyopathy
+Systolic ejection murmur (left 2nd interspace) $ Pulmonic stenosis
+Systolic ejection murmur (apex, can increase through systole) $ Mitral regurgitation
+Systolic ejection murmur (lower left sternal border, increases with inspiration) $ Tricuspid regurgitation
+Holosystolic ejection murmur (left fourth interspace) $ Ventricular septal defect
+Diastolic murmur (apex) $ Mitral stenosis
+Diastolic murmur (left 4th interspace) $ Tricuspid stenosis
+Decrescendo diastolic murmur (left 4th interspace) $ Aortic regurgitation (see also Austin-Flint murmur)
+Austin-Flint murmur (mid-to-late-diastolic rumble/low-frequency murmur over apex) $ Severe aortic regurgitation
+Decrescendo Diastolic murmur (right sternal edge and left 2nd interspace) $ Pulmonic regurgitation
+Continuous murmur (left 2nd interspace below median end of clavicle) $ Patent ductus arteriosus
+Continuous murmur (centrally at 3rd interspace level) $ Aorticopulmonary window defect
+Continuous murmur (peripheral body sites) $ Systemic arteriovenous connections
+Loud S1 $ Mitral stenosis
+Soft or absent S1 $ Mitral regurgitation if valve is stiff
+Late aortic valve closure in S2 $ Left bundle branch block, aortic stenosis
+Late pulmonic valve closure in S2 $ Atrial septal defect, right bundle branch block
+Fixed split S2 during respiration $ Atrial septal defect
+Paradoxical splitting of S2 $ Left bundle branch block (also some cases of aortic stenosis and patent ductus)
+Single S2 $ Badly damaged aortic valve (regurgitation, stenosis, or atresia)
+Early systolic click $ Congenital aortic or pulmonic valve stenosis, severe pulmonary hypertension
+Changing systolic clicks with position $ Myxomatous degeneration of mitral or tricuspid valves
+S3 (pericardial knock) $ Dilated and noncompliant left (strongest on expiration) or right (strongest on inspiration) ventricle, normal in kids
+S4 $ Right (strongest on inspiration) or left (strongest on expiration) ventricular dysfunction (myocardial ischemia or early myocardial infarction)
+Summation gallop (combined S3 and S4) $ Tachycardic patient with right or left ventricular dysfunction
+Diastolic knock $ Constricting pericardium
+Mitral opening snap $ Mitral stenosis
+5p- $ Cri-du-chat syndrome (cat-like cry, feeding problems, abnormal mental development)
+45,XO $ Turner syndrome (infertile female, webbed neck, coarctationn of aorta)
+47,XXY $ Klinefelter syndrome (male with small testes and eunuchoid habitus)
+CFTR (chloride channel gene, chromosome 7) $ Cystic fibrosis (recurrent pneumonia, pancreatic exocrine insufficiency)
+FBN1 gene (codes for fibrillin) (chromosome 15) $ Marfan syndrome (tall stature, hyperextensible joints, dissecting aortic aneurysm)
+NF1 $ Neurofibromatosis type I (von Recklinghausen disease, chromosome 17, neurofibromas, café-au-lait spots)
+NF2 $ Neurofibromatosis type II (bilateral acoustic neurofibromatosis, chromosome 22)
+t(8;14) (c-myc) $ Burkitt lymphoma
+t(9;22) (Philadelphia chromosome, bcr-abl hybrid) $ CML and occasionally AML
+t(14;18) (bcl-2) $ Many follicular lymphomas
+Trisomy 13 $ Patau syndrome (microcephaly, mental retardation, cleft palate, polydactyly, heart malformations)
+Trisomy 18 $ Edwards syndrome (rocker bottom feet, microcephaly, mental retardation, multiple organ defects)
+Trisomy 21 $ Down syndrome (most common chromosomal disorder, older maternal age, mental retardation, early Alzheimer disease)
+VHL (chromosome 3) $ von Hippel-Lindau (hemangioblastomas, renal cell carcinoma)
+XYY $ XYY syndrome (very tall male with increased risk of behavior problems)
+Auer rods (rods in white blood cell cytoplasm) $ Acute myelogenous leukemia, particularly promyelocytic
+Basophilic stippling (dots in erythrocytes) $ Lead poisoning
+Birbeck granules on EM $ Histiocytosis X (eosinophilic granuloma)
+Call-Exner bodies (ring of cells with pink fluid in center) $ Granulosa-theca cell tumor of ovary
+Cerebriform nuclei $ Mycosis fungoides (cutaneous T-cell lymphoma)
+Clue cells (bacteria on epithelial cells) $ Gardnerella vaginitis
+Councilman bodies (pink, round cytoplasmic inclusion in hepatocytes) $ Toxic or viral hepatitis
+Cowdry type A bodies (intranuclear eosinophilic inclusions) $ Herpes
+Crescents in Bowman's capsule $ Rapidly progressive crescentic glomerulonephritis
+Curschmann's spirals (coiled mucinous fibrils found in sputum) $ Bronchial asthma
+Depigmentation of neurons in substantia nigra $ Parkinson disease (degeneration of dopaminergic nigrostriatal neurons)
+Donovan bodies (oval, rod-shaped organisms in cells) $ Granuloma inguinale
+Ferruginous bodies (rod-shaped structures with crystals on them) $ Asbestosis
+Heinz bodies (red cell inclusions) $ G6PD deficiency
+Homer Wright rosettes (ring of neural cells) $ Neuroblastoma
+Howell-Jowell bodies (blue-black erythrocyte inclusions) $ Splenectomy or nonfunctioning spleen
+Hypersegmented neutrophils $ Macrocytic anemia (vitamin B12 or folate deficiency)
+Hypochromic microcytosis $ Iron deficiency anemia, lead poisoning
+Keratin pearls (concentric layers of keratin) $ Squamous cell carcinoma
+Kimmelsteil-Wilson nodules (acellular nodules in glomerulus) $ Diabetic nephropathy
+Koilocytes (look for perinuclear halo) $ HPV infections such as condyloma, cervical dysplasia
+Lewy bodies (round, pink nodules in neuronal cytoplasm) $ Parkinson disease
+Mallory bodies (ropy, pink cytoplasmic structures in hepatocytes) $ Alcoholic liver disease
+Needle-shaped, negatively birefringent crystals $ Gout (uric acid)
+Negri bodies (large viral inclusions in neurons, see on Emergency Medicine) $ Rabies
+Neurofibrillary tangles (tangles of fibers in neuron cytoplasm) $ Alzheimer disease
+Owl's eye nuclei $ Cytomegalovirus (due to virus particles in nucleus)
+Pick bodies (silver protein deposits in neurons) $ Pick disease
+Psudopalisading tumor cell arrangement (foci of necrosis surrounded by intact tumor cells) $ Glioblastoma multiforme
+Pseudorosettes (rings of cells with central vessel) $ Ewing sarcoma
+Reed-Sternberg cells (large binucleate cell with large nucleoli) $ Hodgkin lymphoma
+Reinke crystals (rectangular crystals, ovary or testes) $ Leydig cell tumor
+Renal epithelial casts in urine $ Acute toxicity/viral (epithelial casts reflect tubular damage)
+Rhomboid crystals in joint fluid, positively birefringent $ Pseudogout (calcium pyrophosphate crystals)
+Rouleaux (stacked erythrocytes) $ Multiple myeloma
+Russell bodies (hyaline spheres in plasma cells) $ Multiple myeloma
+Schiller-Duval bodies (look like glomeruli) $ Yolk sac tumor
+Senile plaques (extracellular amyloid) $ Alzheimer disease
+Signet ring cells (have nucleus compressed to one side of cell) $ Gastric carcinoma
+Smudge cells (smashed lymphocyte) $ Chronic lymphocytic leukemia
+Spike and dome on EM (irregular dense deposits with basement membrane material between deposits) $ Membranous glomerulonephritis
+"Starry sky" pattern (sheets of small lymphocytes with scattered histiocytes as "stars") $ Burkitt lymphoma
+Subepithelial humps on Emergency Medicine $ Poststreptococcal glomerulonephritis
+Sulfur granules (clusters of bacteria) $ Actinomyces israeli
+Tram track appearence on light microscopy (double contour capillary loops) $ Membranoproliferative glomerulonephritis
+Waxy casts in urine $ Chronic end-stage renal disease
+WBC casts in urine $ Acute pyelonephritis
+WBCs in urine (heavy neutrophilic infiltrate) $ Acute cystitis
+"Wire loop" lesion (thickened capillary basement membrane) $ Lupus nephritis
+Anti-basement membrane $ Goodpasture syndrome
+Anticentromere $ Scleroderma (CREST syndrome)
+Anti-double stranded DNA (ANA antibodies) $ `Systemic lupus erythematosus`(type III hypersensitivity-immune complexes)`
+Antiepithelial cell $ Pemphigus vulgaris
+Antigliadin $ Celiac disease
+Antihistone $ Drug-induced SLE
+Anti-IgG (rheumatoid factor) $ Rheumatoid arthritis
+Antimitochondrial $ Primary biliary cirrhosis
+Antineutrophil $ Vasculitis
+Antiplatelet $ Idiopathic thrombocytopenic purpura
+C-ANCA, P-ANCA $ Wegener granulomatosis (C-ANCA), polyarteritis nodosa (mostly P-ANCA, but can have both)
+CLL $ Mycoplasma pneumoniae, mononucleosis, lymphoma, CLL
+Acanthocytes (spur cells) $ Abetalipoproteinemia (severe burns, liver disease, hypothyroidism)
+Basophilic stippling $ Lead poisoning (thalassemia)
+Bite cells and Heinz bodies $ Glucose-6-phosphate dehydrogenase deficiency (spleen removes Heinz bodies, leading to "bitten" appearance of RBCs)
+Dacrocytes (teardrop cells) $ Scarring of bone marrow (myelophthisis), splenic dysfunction
+Echinocytes (burr cells) $ often drying artifact, uremia
+Elliptocytes (ovalocytes) $ Hereditary elliptocytosis (iron deficiency, thalassemia, myelophthisis)
+Howell-Jolly bodies and Cabot rings $ Splenic dysfunction (thalassemia)
+Macrocytes (large cells) $ Vitamin B12 and folate deficiency (myelodysplastic syndromes, liver disease)
+Microcytes (small cells) $ Iron deficiency anemia (thalassemia and some cases of anemia of chronic disease)
+Pappenheimer bodies $ Sideroblastic anemia (splenic dysfunction)
+Rouleaux formation (RBCs stacked like coins) $ Multiple myeloma
+Schistocytes (fragmented cells) $ Intravascular hemolysis
+Spherocytes $ Hereditary spherocytosis (extravascular hemolysis)
+Stomatocytes $ Hereditary stomatocytosis (alcoholism)
+Target cells $ Liver disease, thalassemia (HbC, occasionally in iron deficiency)
+Bilobed neutrophil nuclei $ Pelger-Huet anomaly
+Cerebriform nuclei (convoluted appearance to nucleus) $ Mycosis fungoides (cutaneous T-cell lymphoma)
+Dohle bodies (pale blue, oval cytoplasmic inclusions that can be near cytoplasmic membrane of neutrophils) $ Sepsis, May-Hegglin anomaly
+Giant platelets $ Bernard-Soulier syndrome
+Hypersegmented neutrophil nuclei $ Megaloblastic (macrocytic) anemia
+Large blue granules in cytoplasm of all white blood cells $ Alder-Reilly anomaly
+Large eosinophilic granules in neutrophil cytoplasm $ Chediak-Higashi syndrome
+Toxic granulation (medium-to-large sized dark blue granulations in neutrophil cytoplasm) $ Sepsis
+Alanine aminotransferase (ALT) $ Liver damage
+Alkaline phosphatase (Alk phos) $ Bone, biliary, and placental disease
+Amylase $ Pancreatic and salivary disease
+Antiogensin-converting enzyme (ACE) $ Sarcoidosis (also primary biliary cirrhosis, Gaucher disease, leprosy)
+Aspartate aminotransferase (AST) $ Acute myocardial infarction, liver disease
+`Creatinine kinase (CK)`    CK-MB` $ Myocardial infarction (early 2-8 h), severe skeletal muscle injury
+Elastase-1 $ Pancreatic disease
+Lactate dehydrogenase (LDH) $ `Acute myocardial infarction (early), hemolysis, renal infarction`Liver damage (also skeletal muscle damage)`Acute myocardial infarction complicated by liver congestion; alcoholic liver disease complicated by megaloblastic anemia
+Lipase $ Pancreatic disease
+Myoglobin $ Myocardial infarction (early, but nonspecific)
+Troponin I $ Myocardial infarction (elevates as early as 3 h post MI, then stays elevated up to 9 days after MI)
