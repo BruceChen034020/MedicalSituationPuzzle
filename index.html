@@ -8,7 +8,7 @@
   Facebook連結: https://www.facebook.com/bruce.chen.372
   LINE ID: brucechen0
 最後修改日期: 2022/9/19
-版本: 1.0.0.2
+版本: 1.0.0.4
 發表於: https://brucechen034020.github.io/
 程式碼尺度
   N/A
@@ -16,8 +16,10 @@
     本作品作者與使用者約定如下:
       1. 您（使用者）可以複製、發行、展覽、表演、放映、廣播或通過資訊網路傳播本作品；不需標示作者姓名。
       2. 您可以自由複製、散布、展示及演出本作品。
-      3. 您可以自由以任何形式改變、轉變或更改本作品。
+      3. 您可以自由以任何形式重混、轉換、改變、轉變或更改本作品。
       4. 您得為教育、娛樂、學術、公益、報導、評論目的而使用本作品，不限所利用之質量及其在整個著作所占之比例。
+      5. 您不能增設法律條款或科技措施，來限制別人依本約定本已許可的作為。
+      6. 若您重混、轉換、改變、轉變或更改本作品，或依本作品建立新作品，您必須依本約定來散布您的貢獻物。
 作者註解:
   1. 如本網頁有 bug 請用 Facebook(Messenger) 通知 Bruce Chen，謝謝。
   2. 如有任何建議，請用 Facebook(Messenger) 通知 Bruce Chen，謝謝。
@@ -29,9 +31,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.9/p5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.9/addons/p5.dom.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.9/addons/p5.sound.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+    <script src="events.js"></script>
+    <script src="醫學海龜湯題庫UTF-8.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <!--<style> body {padding: 0; margin: 0;} </style>-->
+  </head>
+  <body>
     <script type="module">
       // Import the functions you need from the SDKs you need
       import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+      import { getDatabase, ref, set } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-database.js";
       import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-analytics.js";
       // TODO: Add SDKs for Firebase products that you want to use
       // https://firebase.google.com/docs/web/setup#available-libraries
@@ -50,15 +62,10 @@
 
       // Initialize Firebase
       const app = initializeApp(firebaseConfig);
+      database = getDatabase();
+      Ref = ref;
+      Set = set;
       const analytics = getAnalytics(app);
     </script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="main.js"></script>
-    <script src="events.js"></script>
-    <script src="醫學海龜湯題庫UTF-8.js"></script>
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <!--<style> body {padding: 0; margin: 0;} </style>-->
-  </head>
-  <body>
   </body>
 </html>

@@ -1,21 +1,18 @@
 /* events
-版本: 1.0.0.3
+版本: 1.0.0.4
 2022/9/19
 */
 
 /* Timed Events */
 function sendOnline(){ // send a message to show you are online to the server
-  console.log(database);
-  var ref = database.ref('online/' + ip);
-  console.log(ref);
+  var ref = Ref(database, 'online/' + ip);
   var d = new Date();
   var data = {
     Ip: ip,
     time: d.toString(),
     City: city
   }
-  console.log(data);
-  ref.set(data);
+  Set(ref, data);
   setTimeout(sendOnline, 10000);
 }
 

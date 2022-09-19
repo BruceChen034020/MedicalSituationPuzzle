@@ -6,7 +6,7 @@
   Facebook連結: https://www.facebook.com/bruce.chen.372
   LINE ID: brucechen0
 最後修改日期: 2022/9/19
-版本: 1.0.0.3
+版本: 1.0.0.4
 發表於: https://brucechen034020.github.io/
 程式碼尺度
   N/A
@@ -16,6 +16,8 @@
       2. 您可以自由複製、散布、展示及演出本作品。
       3. 您可以自由以任何形式改變、轉變或更改本作品。
       4. 您得為教育、娛樂、學術、公益、報導、評論目的而使用本作品，不限所利用之質量及其在整個著作所占之比例。
+      5. 您不能增設法律條款或科技措施，來限制別人依本約定本已許可的作為。
+      6. 若您重混、轉換、改變、轉變或更改本作品，或依本作品建立新作品，您必須依本約定來散布您的貢獻物。
 作者註解:
   1. 如本網頁有 bug 請用 Facebook(Messenger) 通知 Bruce Chen，謝謝。
   2. 如有任何建議，請用 Facebook(Messenger) 通知 Bruce Chen，謝謝。
@@ -30,6 +32,8 @@ var QuestionNumber; // 目前的題號 (int)
 var database; // firebase database
 var ip; // ip adress of the client (string)
 var city; // city of the client (string)
+var Ref; // firebase ref, 相當於以前的 firebase.database().ref() (ref function)
+var Set; // firebase set, 相當於以前的 firebase.database().ref().set() (set function)
 
 /* p5 functions */
 function setup(){
@@ -65,7 +69,7 @@ function setup(){
   LabelQA = createP('');
 
   /* Initialize Firebase */
-  database = firebase.database();
+
 
   /* Initialize timed events */
   setTimeout(sendOnline, 10000);
